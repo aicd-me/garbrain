@@ -1,9 +1,9 @@
-# Garbicz Festival 2025 - Artist Timetable
+# Garbicz Festival (Garbicz) 2025 - Artist Timetable
 
 ### Wednesday, July 30th
 
 ## 1781 Collective - classical prelude
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 20:00-22:00  
 **Type:** performance
 
@@ -12,62 +12,62 @@
 ### Thursday, July 31st
 
 ## Amapola & Arnau Yuna
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 15:00-17:30  
 **Type:** DJ
 
 ## Velvet Whispers by Zohar feat. Ha:arp
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 16:00-18:00  
 **Type:** performance
 
 ## Ilyari
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 17:30-18:30  
 **Type:** live
 
 ## Open Stage: Piano Contest
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 18:00-20:00  
 **Type:** open stage
 
 ## Captain of None
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 18:30-20:30  
 **Type:** DJ
 
 ## Nectar
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 20:00-22:00  
 **Type:** live
 
 ## Ficken und Faulenzen Performance
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 20:30-21:00  
 **Type:** performance
 
 ## Kitty and the Cat
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 21:00-22:00  
 **Type:** live
 
 ## [äis]
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 22:00-23:30  
 **Type:** showcase
 
 ## Laura Sequoia
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 22:00-23:00  
 **Type:** live
 
 ## Gunnar Mühlmann: Ouroboros Meditation
-**Stage:** Lichtung  
+**Stage:** Lichtung Stage  
 **Time:** 23:00-00:00  
 **Type:** meditation
 
 ## JPattersson
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 23:30-00:30  
 **Type:** live
 
@@ -76,22 +76,22 @@
 ### Friday, August 1st
 
 ## Yamz
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 00:30-02:00  
 **Type:** showcase
 
 ## Ed Noodle
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 02:00-03:30  
 **Type:** showcase
 
 ## Athie Umgido
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 03:30-05:00  
 **Type:** showcase
 
 ## Deep Ghosh
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 05:00-06:00  
 **Type:** showcase
 
@@ -101,7 +101,7 @@
 **Type:** ceremony
 
 ## Heimlich Knüller
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 13:30-17:00  
 **Type:** DJ
 
@@ -116,7 +116,7 @@
 **Type:** live
 
 ## Ojam feat. LENI
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 17:00-18:00  
 **Type:** live
 
@@ -126,7 +126,7 @@
 **Type:** DJ
 
 ## DJ Smut
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 18:00-21:00  
 **Type:** DJ
 
@@ -141,12 +141,12 @@
 **Type:** live
 
 ## Midsummer Night's Cream Performance
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 21:00-22:00  
 **Type:** performance
 
 ## Muovipussi Performance
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 22:00-23:00  
 **Type:** performance
 
@@ -156,12 +156,12 @@
 **Type:** live
 
 ## Spievy
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 23:00-23:30  
 **Type:** live
 
 ## Khidja
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 23:30-01:30  
 **Type:** DJ
 
@@ -175,7 +175,7 @@
 **Type:** DJ
 
 ## Anatolian Weapons
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 01:30-03:30  
 **Type:** DJ
 
@@ -185,7 +185,7 @@
 **Type:** DJ
 
 ## Front de Cadeaux
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 03:30-05:30  
 **Type:** DJ
 
@@ -195,7 +195,7 @@
 **Type:** live
 
 ## Sutsche
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 05:30-08:00  
 **Type:** DJ
 
@@ -205,7 +205,7 @@
 **Type:** DJ
 
 ## jorke
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 08:00-09:00  
 **Type:** live
 
@@ -230,7 +230,7 @@
 **Type:** DJ
 
 ## DirdyGerdi & Mia Kober
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 14:00-16:00  
 **Type:** showcase
 
@@ -240,12 +240,12 @@
 **Type:** DJ
 
 ## Rico Loop feat. The Pappenheimer's
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 16:00-17:30  
 **Type:** live
 
 ## Princess Room
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 17:30-19:00  
 **Type:** live
 
@@ -255,7 +255,7 @@
 **Type:** live
 
 ## Martha Van Straaten
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 19:00-21:00  
 **Type:** DJ
 
@@ -270,12 +270,12 @@
 **Type:** DJ
 
 ## Kabeaushé
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 21:00-22:00  
 **Type:** live
 
 ## Laetizia
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 22:00-00:00  
 **Type:** DJ
 
@@ -289,7 +289,7 @@
 ### Sunday, August 3rd
 
 ## Catnapp
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 00:00-01:00  
 **Type:** live
 
@@ -299,7 +299,7 @@
 **Type:** live
 
 ## Lena Willikens
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 01:00-03:00  
 **Type:** DJ
 
@@ -309,7 +309,7 @@
 **Type:** DJ
 
 ## Tai Rona b2b Katzele
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 03:00-06:00  
 **Type:** b2b
 
@@ -319,7 +319,7 @@
 **Type:** DJ
 
 ## Dr. Gonzo
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 06:00-08:00  
 **Type:** DJ
 
@@ -339,7 +339,7 @@
 **Type:** live
 
 ## Just1
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 14:00-16:00  
 **Type:** DJ
 
@@ -349,7 +349,7 @@
 **Type:** live
 
 ## Douniah
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 16:00-17:00  
 **Type:** live
 
@@ -359,7 +359,7 @@
 **Type:** live
 
 ## Khadija
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 17:00-19:00  
 **Type:** DJ
 
@@ -369,7 +369,7 @@
 **Type:** DJ
 
 ## Lourdes Lourdes
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 19:00-20:00  
 **Type:** live
 
@@ -379,17 +379,17 @@
 **Type:** live
 
 ## Omoloko
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 20:00-22:00  
 **Type:** DJ
 
 ## Wayne Snow
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 22:00-23:00  
 **Type:** live
 
 ## Parris
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 23:00-01:00  
 **Type:** DJ
 
@@ -398,55 +398,55 @@
 ### Monday, August 4th
 
 ## Suricata + Don Alex Albert
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 01:00-04:00  
 **Type:** DJ
 
 ## Lemonella
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 04:00-06:00  
 **Type:** DJ
 
 ## DJ Balaton
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 06:00-08:00  
 **Type:** DJ
 
 ## Jascha Hagen
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 08:00-10:00  
 **Type:** DJ
 
 ## Avem
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 10:00-11:00  
 **Type:** live
 
 ## Marliblue & Sofyah
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 11:00-13:00  
 **Type:** DJ
 
 ## Loui Beton X Tars
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 13:00-15:00  
 **Type:** DJ
 
 ## DAJO
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 15:00-16:00  
 **Type:** live
 
 ## Mira & Chris Schwarzwälder
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 16:00-18:00  
 **Type:** DJ
 
 ## ADA
-**Stage:** Seebühne  
+**Stage:** Seebühne (See Floor)  
 **Time:** 18:00-20:00  
 **Type:** DJ
 
 ---
 
-*Note: This timetable includes performances at the Seebühne, Ambientfloor, and Lichtung stages. Additional performances at other stages (Pleasure Island, Buk Corner, Juicy Bar, Loco Paraiso, Weinbar, Wald, Wiese, Cocktailbar) are also part of the festival program but not included in this excerpt.*
+*Note: This timetable includes performances at the Seebühne (See Floor), Ambientfloor, and Lichtung Stage stages. Additional performances at other stages (Pleasure Island, Buk Corner, Juicy Bar, Loco Paraiso, Weinbar (Wine Bar), Wald (Wald Floor), Wiese (Wiese Floor), Cocktailbar) are also part of the festival program but not included in this excerpt.*

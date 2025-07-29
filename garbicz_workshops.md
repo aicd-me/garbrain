@@ -1,4 +1,4 @@
-# Garbicz Festival Workshops
+# Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) Workshops
 
 ### Wednesday, July 30th
 
@@ -180,14 +180,14 @@
 **Time:** 20:00  
 **Location:** Amphitheater  
 **Facilitator:** Ocean & Vishal  
-**Description:** Every moment at Garbicz is a story waiting to be told. Some are wild, some are profound, and some shift the way we see ourselves forever. In Part 2, step into the Garbicz Story Stage—an intimate, curated evening of shared festival tales, where 5-7 storytellers bring their Garbicz moments to life. Laughter, goosebumps, and a few tears possibly. Come ready to rewrite your story, connect deeply, and witness the magic that happens when we own our narratives. Because at Garbicz, the best stories aren't just told—they're lived.
+**Description:** Every moment at Garbicz Festival (Garbicz) is a story waiting to be told. Some are wild, some are profound, and some shift the way we see ourselves forever. In Part 2, step into the Garbicz Festival (Garbicz) Story Stage—an intimate, curated evening of shared festival tales, where 5-7 storytellers bring their Garbicz Festival (Garbicz) moments to life. Laughter, goosebumps, and a few tears possibly. Come ready to rewrite your story, connect deeply, and witness the magic that happens when we own our narratives. Because at Garbicz Festival (Garbicz), the best stories aren't just told—they're lived.
 
 ## House of Soulstrip
 **Day:** Saturday  
 **Time:** 22:00  
 **Location:** Amphitheater  
 **Facilitator:** Anya Ananda  
-**Description:** In The HOUSE OF SOULSTRIP Y O U become the performer or the customer, like in a stripclub! We bring you as performers and guests together in new consciousness and levels of erotic joy. Everyone can perform, the only requirement is that you join our House of Soulstrip training beforehand in the form of a festival workshop in Lichtung. The workshop aims to activate your own essential power and safety for authentic exploration of performative, erotic energies on stage, using the pole as our sacred center piece.
+**Description:** In The HOUSE OF SOULSTRIP Y O U become the performer or the customer, like in a stripclub! We bring you as performers and guests together in new consciousness and levels of erotic joy. Everyone can perform, the only requirement is that you join our House of Soulstrip training beforehand in the form of a festival workshop in Lichtung Area. The workshop aims to activate your own essential power and safety for authentic exploration of performative, erotic energies on stage, using the pole as our sacred center piece.
 
 ---
 

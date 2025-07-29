@@ -1,4 +1,4 @@
-# Garbicz Festival FAQ
+# Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) FAQ
 
 ### General Information
 
@@ -8,23 +8,23 @@
 
 ## Animals
 **Topic:** Animals  
-**Content:** No animals allowed on Garbicz. We love your furry friends so much, but there is too much happening during the festival.
+**Content:** No animals allowed on Garbicz Festival (Garbicz). We love your furry friends so much, but there is too much happening during the festival.
 
 ## Children
 **Topic:** Children  
-**Content:** No kids are allowed on Garbicz ground during the Festival. As there is lots of interest, we are working on a solution towards a kinder camping area. If that happens, we will announce it!
+**Content:** No kids are allowed on Garbicz Festival (Garbicz) ground during the Festival. As there is lots of interest, we are working on a solution towards a kinder camping area. If that happens, we will announce it!
 
 ## Drinking Water
 **Topic:** Drinking Water  
-**Content:** Our tap water is drinkable. Bring your own bottles or buy our Garbicz bottles onsite. We are providing more water stations around the festival site every year that will provide everyone with fresh filtered drinking water from our wells that are about a 100 meters deep.
+**Content:** Our tap water is drinkable. Bring your own bottles or buy our Garbicz Festival (Garbicz) bottles onsite. We are providing more water stations around the festival site every year that will provide everyone with fresh filtered drinking water from our wells that are about a 100 meters deep.
 
 ## FLINTA Toilets
 **Topic:** FLINTA Toilets  
-**Content:** Garbicz has always been about diversity. For all Female, Lesbian, Intersex, Non-binary, Trans and Agender people we have dedicated toilets, including staff to make sure everything works great. To find FLINTA toilets please check the map in the festival booklet and signs.
+**Content:** Garbicz Festival (Garbicz) has always been about diversity. For all Female, Lesbian, Intersex, Non-binary, Trans and Agender people we have dedicated toilets, including staff to make sure everything works great. To find FLINTA toilets please check the map in the festival booklet and signs.
 
-## Food Forest
-**Topic:** Food Forest  
-**Content:** Did you know that Garbicz is secretly a food festival? Look and smell around, meet the kitchen teams, and trust your gut instincts. This is the way, and you will always feel yummy in your tummy. We serve international cuisine and Polish classics as well as a wide selection of drinks. It is worth trying our delicious and multicultural food stands. In addition to the regular food stalls, the Food Forest also hosts beautiful dinners, brunches, and tastings – perfect for both solo foodies and hungry crews. Spots are limited, so we recommend booking in advance. Check out our Extras!
+## Food Forest (Food Court)
+**Topic:** Food Forest (Food Court)  
+**Content:** Did you know that Garbicz Festival (Garbicz) is secretly a food festival? Look and smell around, meet the kitchen teams, and trust your gut instincts. This is the way, and you will always feel yummy in your tummy. We serve international cuisine and Polish classics as well as a wide selection of drinks. It is worth trying our delicious and multicultural food stands. In addition to the regular food stalls, the Food Forest (Food Court) also hosts beautiful dinners, brunches, and tastings – perfect for both solo foodies and hungry crews. Spots are limited, so we recommend booking in advance. Check out our Extras!
 
 ## Groceries & Supplies
 **Topic:** Groceries & Supplies  
@@ -36,7 +36,7 @@
 
 ## Lost & Found
 **Topic:** Lost & Found  
-**Content:** Lost & Found items are handled at the infopoint. As festival organizers in Poland we have legal obligations. During the festival, we secure items in a safe place at our infopoint, record the find, and do our best to return lost items immediately. After the festival, unclaimed items must be handed over to Polish authorities according to Polish law. Ordinary items go to Starostwo Powiatowe w Sulęcinie (county office) at Lipowa 18, 69-200 Sulęcin, Poland. Valuable items and documents go to the police station. Items are kept for 1 year from the date of notification. Contact: verloren@garbiczfestival.com
+**Content:** Lost & Found items are handled at the Infopoint (Festival Info). As festival organizers in Poland we have legal obligations. During the festival, we secure items in a safe place at our Infopoint (Festival Info), record the find, and do our best to return lost items immediately. After the festival, unclaimed items must be handed over to Polish authorities according to Polish law. Ordinary items go to Starostwo Powiatowe w Sulęcinie (county office) at Lipowa 18, 69-200 Sulęcin, Poland. Valuable items and documents go to the police station. Items are kept for 1 year from the date of notification. Contact: verloren@garbiczfestival.com
 
 ## Musicians & DJ
 **Topic:** Musicians & DJ  
@@ -60,7 +60,7 @@
 
 ## Tentation Stay
 **Topic:** Tentation Stay  
-**Content:** All tents for Tentation Stay 2025 are SOLD OUT – thank you for the overwhelming love. To accommodate more Tentation lovers we offer a limited amount of extra tents in WUNDERWALD. Please note: The Garbicz Festival entrance ticket is NOT included in this purchase! If you'd like to be the first to hear about next year's glamping bookings, simply drop us a line at tentation@garbiczfestival.com and we'll add you to the 2026 mailing list.
+**Content:** All tents for Tentation Stay 2025 are SOLD OUT – thank you for the overwhelming love. To accommodate more Tentation lovers we offer a limited amount of extra tents in WUNDERWALD. Please note: The Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) entrance ticket is NOT included in this purchase! If you'd like to be the first to hear about next year's glamping bookings, simply drop us a line at tentation@garbiczfestival.com and we'll add you to the 2026 mailing list.
 
 ## Ticket Swap
 **Topic:** Ticket Swap  
@@ -68,7 +68,7 @@
 
 ## Wednesday Ticket
 **Topic:** Wednesday Ticket  
-**Content:** Wednesday Tickets are available online! ONLY VALID IN COMBINATION WITH A FESTIVAL TICKET. This ticket grants you early access to Garbicz Festival from on the 30.07 – 12:00pm. With this ticket, we offer a preview to enjoy the diverse facets of Garbicz Festival in a serene setting, before the large dance floors come alive. Get a head start to your weekend as we open our art and lighting installations for viewing. Participate in workshops and enjoy the sauna at Lichtung. Engage in interactive plays and performances or just taste delights from food stalls with live music in our winebar, or just unwind by our beautiful lake and release your travel tension.
+**Content:** Wednesday Tickets are available online! ONLY VALID IN COMBINATION WITH A FESTIVAL TICKET. This ticket grants you early access to Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) from on the 30.07 – 12:00pm. With this ticket, we offer a preview to enjoy the diverse facets of Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) in a serene setting, before the large dance floors come alive. Get a head start to your weekend as we open our art and lighting installations for viewing. Participate in workshops and enjoy the sauna at Lichtung Area. Engage in interactive plays and performances or just taste delights from food stalls with live music in our winebar, or just unwind by our beautiful lake and release your travel tension.
 
 ---
 
@@ -76,11 +76,11 @@
 
 ## Awareness Team
 **Topic:** Awareness Team  
-**Content:** Festivals and other cultural events offer spaces for hedonism and exuberance. They are meant to help balance and let go. They form important cultural and social spaces for, among others, people who are met with oppression and discrimination in everyday life every day. This makes it all the more important to make these spaces, which are particularly worthy of protection, as safe as possible. We live in a world full of patriarchal power structures. It is our task to break up these structures and to counteract them decisively. We want to create a space at Garbicz that is characterized by mutual respect and consensus. Let's create a world together in which we can all feel safe. The awareness structures of the Garbicz Festival are currently under construction. We are doing everything we can to make our spaces and yours less discriminatory. We will be at the festival with an awareness team and see ourselves as your friends, listeners and supporters. You can find us next to Eclipse and the Medics, next to the food court. We are there for you if you need our help or support. We don't tolerate sexism, racism, rejectionism, queerphobia or any other form of discrimination at Garbicz.
+**Content:** Festivals and other cultural events offer spaces for hedonism and exuberance. They are meant to help balance and let go. They form important cultural and social spaces for, among others, people who are met with oppression and discrimination in everyday life every day. This makes it all the more important to make these spaces, which are particularly worthy of protection, as safe as possible. We live in a world full of patriarchal power structures. It is our task to break up these structures and to counteract them decisively. We want to create a space at Garbicz Festival (Garbicz) that is characterized by mutual respect and consensus. Let's create a world together in which we can all feel safe. The awareness structures of the Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) are currently under construction. We are doing everything we can to make our spaces and yours less discriminatory. We will be at the festival with an awareness team and see ourselves as your friends, listeners and supporters. You can find us next to Eclipse and the Medical Team (Medics), next to the food court. We are there for you if you need our help or support. We don't tolerate sexism, racism, rejectionism, queerphobia or any other form of discrimination at Garbicz Festival (Garbicz).
 
 ## First Aid
 **Topic:** First Aid  
-**Content:** We have Polish, English, and German-speaking medics on site, supported by the experienced team from Eclipse. They are equipped to assist in critical situations. That said, everyone is responsible for their own well-being. Take care of yourself and those around you. No one wants to miss out on the fun by ending up in psychiatric care or a hospital.
+**Content:** We have Polish, English, and German-speaking Medical Team (Medics) on site, supported by the experienced team from Eclipse. They are equipped to assist in critical situations. That said, everyone is responsible for their own well-being. Take care of yourself and those around you. No one wants to miss out on the fun by ending up in psychiatric care or a hospital.
 
 ## ID Check at Entry
 **Topic:** ID Check at Entry  
@@ -96,7 +96,7 @@
 
 ## Camper Van Arrival
 **Topic:** Camper Van Arrival  
-**Content:** Pass through Garbicz village for accreditation and receive your Camper Sticker, granting access to the festival site. Each sleeping vehicle requires one sticker; cars delivering wagons must park in our designated lot. Trust in our skilled traffic team and follow their instructions for a hassle-free experience.
+**Content:** Pass through Garbicz Festival (Garbicz) village for accreditation and receive your Camper Sticker, granting access to the festival site. Each sleeping vehicle requires one sticker; cars delivering wagons must park in our designated lot. Trust in our skilled traffic team and follow their instructions for a hassle-free experience.
 
 ## Car Arrival
 **Topic:** Car Arrival  
@@ -116,7 +116,7 @@
 
 ## Payment on site
 **Topic:** Payment on site  
-**Content:** Garbicz Festival is completely cashless! We use a contactless RFID payment system, which means your wristband chip is your digital wallet that you fill up with Szunnys. 1 Szunny = 1 Zloty. You'll use your wristband to pay for food, drinks, and goods at all vendors and bars on site. You can top it up with money at any time on-site and check your balance at any vendor or top-up station. Festival pre-top-up is highly recommended to skip the lines! If you purchased a festival pre-top-up on our website, simply show the QR code at accreditation during check-in. If your chip isn't working or you've lost your wristband, visit the Infopoint where our troubleshooting team can block the old one and transfer your remaining balance to a new wristband. Keep your wristband for refund after the festival.
+**Content:** Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) is completely cashless! We use a contactless RFID payment system, which means your wristband chip is your digital wallet that you fill up with Szunnys. 1 Szunny = 1 Zloty. You'll use your wristband to pay for food, drinks, and goods at all vendors and bars on site. You can top it up with money at any time on-site and check your balance at any vendor or top-up station. Festival pre-top-up is highly recommended to skip the lines! If you purchased a festival pre-top-up on our website, simply show the QR code at accreditation during check-in. If your chip isn't working or you've lost your wristband, visit the Infopoint (Festival Info) where our troubleshooting team can block the old one and transfer your remaining balance to a new wristband. Keep your wristband for refund after the festival.
 
 ## Deposit
 **Topic:** Deposit  
@@ -124,43 +124,43 @@
 
 ## Are wellness services included in festival ticket?
 **Topic:** Are wellness services included in festival ticket?  
-**Content:** 1:1 wellness treatments such as Massages, Reiki, Womb Healing, individual Breathwork Coaching and the Sound Tube Experience at Lichtung require separate payment and are not included in the festival ticket. However, access to the Banja (steam sauna), workshops, and immersive performances are included in your festival pass. All payments on-site are cashless via the festival wristband system. Please top up your wristband in advance for smooth access to services.
+**Content:** 1:1 wellness treatments such as Massages, Reiki, Womb Healing, individual Breathwork Coaching and the Sound Tube Experience at Lichtung Area require separate payment and are not included in the festival ticket. However, access to the Banja (steam sauna), workshops, and immersive performances are included in your festival pass. All payments on-site are cashless via the festival wristband system. Please top up your wristband in advance for smooth access to services.
 
 ## What payment methods are accepted for massages?
 **Topic:** What payment methods are accepted for massages?  
-**Content:** All payments are cashless via the Garbicz Festival wristband system. You can top up your wristband online or at designated top-up points throughout the festival.
+**Content:** All payments are cashless via the Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) wristband system. You can top up your wristband online or at designated top-up points throughout the festival.
 
 ---
 
-### Wellness & Lichtung
+### Wellness & Lichtung Area
 
-## What types of wellness treatments are available at Lichtung?
-**Topic:** What types of wellness treatments are available at Lichtung?  
-**Content:** Lichtung offers a range of wellness experiences including Therapeutic Massage, Deep Tissue & Fascia Release, Lomi Lomi, Somatic Bodywork, Reiki, Womb Healing, 1:1 Breathwork Coaching and the immersive Sound Tube Experience. All sessions are designed to support deep rest, somatic integration, and emotional regulation.
+## What types of wellness treatments are available at Lichtung Area?
+**Topic:** What types of wellness treatments are available at Lichtung Area?  
+**Content:** Lichtung Area offers a range of wellness experiences including Therapeutic Massage, Deep Tissue & Fascia Release, Lomi Lomi, Somatic Bodywork, Reiki, Womb Healing, 1:1 Breathwork Coaching and the immersive Sound Tube Experience. All sessions are designed to support deep rest, somatic integration, and emotional regulation.
 
-## How can I book a massage or treatment at Lichtung?
-**Topic:** How can I book a massage or treatment at Lichtung?  
-**Content:** You can pre-book your session online before the festival. You will then have the opportunity to secure your preferred time and therapist when you arrive at Lichtung. Walk-in bookings will be available during the festival at the Reception area of Lichtung, but we recommend booking your time slot within the first days of the festival as they can sell out quickly.
+## How can I book a massage or treatment at Lichtung Area?
+**Topic:** How can I book a massage or treatment at Lichtung Area?  
+**Content:** You can pre-book your session online before the festival. You will then have the opportunity to secure your preferred time and therapist when you arrive at Lichtung Area. Walk-in bookings will be available during the festival at the Reception area of Lichtung Area, but we recommend booking your time slot within the first days of the festival as they can sell out quickly.
 
 ## Is it necessary to book treatments in advance?
 **Topic:** Is it necessary to book treatments in advance?  
-**Content:** It is advisable to book in advance if possible, as wellness services at Lichtung are popular and may have limited availability.
+**Content:** It is advisable to book in advance if possible, as wellness services at Lichtung Area are popular and may have limited availability.
 
-## Where is Lichtung located?
-**Topic:** Where is Lichtung located?  
-**Content:** Lichtung is the dedicated health and wellness zone at Garbicz Festival, located near the Tentation area by the lake. It's a tranquil space offering massages, treatments, workshops, performances, and live music at the Teabar. Follow the signs — and the eye — to find us!
+## Where is Lichtung Area located?
+**Topic:** Where is Lichtung Area located?  
+**Content:** Lichtung Area is the dedicated health and wellness zone at Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)), located near the Tentation area by the lake. It's a tranquil space offering massages, treatments, workshops, performances, and live music at the Ali's Teebar. Follow the signs — and the eye — to find us!
 
 ## Can I participate in other wellness activities besides massages?
 **Topic:** Can I participate in other wellness activities besides massages?  
-**Content:** Absolutely! Lichtung offers a variety of wellness activities including yoga, movement classes, sauna sessions, and a diverse range of breathwork techniques. These offerings are designed to help you regulate your nervous system and reconnect with your body in the middle of the festival experience.
+**Content:** Absolutely! Lichtung Area offers a variety of wellness activities including yoga, movement classes, sauna sessions, and a diverse range of breathwork techniques. These offerings are designed to help you regulate your nervous system and reconnect with your body in the middle of the festival experience.
 
-## Who can I contact about Lichtung booking?
-**Topic:** Who can I contact about Lichtung booking?  
-**Content:** For specific questions about massage or treatment availability at Lichtung, feel free to contact our coordination team at lichtung@garbiczfestival.com. You can also reach out via the official Garbicz Festival website's support form.
+## Who can I contact about Lichtung Area booking?
+**Topic:** Who can I contact about Lichtung Area booking?  
+**Content:** For specific questions about massage or treatment availability at Lichtung Area, feel free to contact our coordination team at lichtung@garbiczfestival.com. You can also reach out via the official Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) website's support form.
 
-## What types of dinner and brunches are available at Lichtung?
-**Topic:** What types of dinner and brunches are available at Lichtung?  
-**Content:** Lichtung offers a range of pop up food experiences on a playground in the forest.
+## What types of dinner and brunches are available at Lichtung Area?
+**Topic:** What types of dinner and brunches are available at Lichtung Area?  
+**Content:** Lichtung Area offers a range of pop up food experiences on a playground in the forest.
 
 ---
 
@@ -188,15 +188,15 @@
 
 ## Car Parking
 **Topic:** Car Parking  
-**Content:** Bringing your own car to Garbicz? You can park it at the Car Park in the village with a car park ticket. Parking anywhere else in the city or in the festival grounds is not allowed. The car park is secured 24/7 from Wednesday to Wednesday. Please note: You are neither allowed to sleep in the car nor to pitch a tent on your car.
+**Content:** Bringing your own car to Garbicz Festival (Garbicz)? You can park it at the Car Park in the village with a car park ticket. Parking anywhere else in the city or in the festival grounds is not allowed. The car park is secured 24/7 from Wednesday to Wednesday. Please note: You are neither allowed to sleep in the car nor to pitch a tent on your car.
 
 ## Campervan Parking
 **Topic:** Campervan Parking  
-**Content:** Our caravan camping areas at Garbicz are a wonderful experience, with different vibes to suit your needs and moods. Like it more silent? Try our silent camp. Wanna be close to the festival? Try the On-site camping. Please note: each campervan must have a campervan ticket. On top of that, each person staying in the vehicle must have their own individual entry ticket to the festival which is purchased separately. When you arrive to Garbicz, please collect your Camper Vehicle Pass from the accreditation point. Please follow the instructions of our traffic team for a hassle-free experience.
+**Content:** Our caravan camping areas at Garbicz Festival (Garbicz) are a wonderful experience, with different vibes to suit your needs and moods. Like it more silent? Try our silent camp. Wanna be close to the festival? Try the On-site camping. Please note: each campervan must have a campervan ticket. On top of that, each person staying in the vehicle must have their own individual entry ticket to the festival which is purchased separately. When you arrive to Garbicz Festival (Garbicz), please collect your Camper Vehicle Pass from the accreditation point. Please follow the instructions of our traffic team for a hassle-free experience.
 
 ## Camping Rules - Safety & Respect
 **Topic:** Camping Rules - Safety & Respect  
-**Content:** Our grounds are a safe space where all beings and nature can express themselves freely while being. Yes, look after each other. Yes, ask for help and help others. Yes, drink enough water! Yes, use our toilets! For nature's sake... Please do nothing without consent. No means no and only yes means yes. No answer is not an agreement. Be aware that sexual violence does not start with physical abuse. Also unwanted verbal approaches or harassment are not ok and can lead to exclusion of the festival. Discrimination of any kind, especially on the basis of gender, sexual orientation or origin have no place here! Together we want to create a safer space. Garbicz Festival has a no tolerance policy for any of these behaviors. Be polite. Be consensual.
+**Content:** Our grounds are a safe space where all beings and nature can express themselves freely while being. Yes, look after each other. Yes, ask for help and help others. Yes, drink enough water! Yes, use our toilets! For nature's sake... Please do nothing without consent. No means no and only yes means yes. No answer is not an agreement. Be aware that sexual violence does not start with physical abuse. Also unwanted verbal approaches or harassment are not ok and can lead to exclusion of the festival. Discrimination of any kind, especially on the basis of gender, sexual orientation or origin have no place here! Together we want to create a safer space. Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) has a no tolerance policy for any of these behaviors. Be polite. Be consensual.
 
 ## Camping Rules - Environmental
 **Topic:** Camping Rules - Environmental  
@@ -224,4 +224,4 @@
 
 ## SILENT CAMP
 **Topic:** SILENT CAMP  
-**Content:** Need some peace and quiet? Just before the gate, we created a silent camping area, full of tranquility to enjoy the silence for those who prefer to be away and not too far. Please respect your neighbours and don´t bring your boombox as others may stay at Silent Camp to rest and seek tranquility.
+**Content:** Need some peace and quiet? Just before the gate, we created a silent camping area, full of tranquility to enjoy the silence for those who prefer to be away and not too far. Please respect your neighbours and don´t bring your boombox as others may stay at Silent Camping (Silent Camp) to rest and seek tranquility.
