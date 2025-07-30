@@ -1,0 +1,3417 @@
+[
+  {
+    "text": "Q: Age Restriction\nA: **Topic:** Age Restriction  \n**Content:** Festival participation from 18 years old.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Age Restriction",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Animals\nA: **Topic:** Animals  \n**Content:** No animals allowed on Garbicz Festival (Garbicz). We love your furry friends so much, but there is too much happening during the festival.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Animals",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Children\nA: **Topic:** Children  \n**Content:** No kids are allowed on Garbicz Festival (Garbicz) ground during the Festival. As there is lots of interest, we are working on a solution towards a kinder camping area. If that happens, we will announce it!",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Children",
+      "type": "general info",
+      "keywords": [
+        "camping"
+      ]
+    }
+  },
+  {
+    "text": "Q: Drinking Water\nA: **Topic:** Drinking Water  \n**Content:** Our tap water is drinkable. Bring your own bottles or buy our Garbicz Festival (Garbicz) bottles onsite. We are providing more water stations around the festival site every year that will provide everyone with fresh filtered drinking water from our wells that are about a 100 meters deep.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Drinking Water",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: FLINTA Toilets\nA: **Topic:** FLINTA Toilets  \n**Content:** Garbicz Festival (Garbicz) has always been about diversity. For all Female, Lesbian, Intersex, Non-binary, Trans and Agender people we have dedicated toilets, including staff to make sure everything works great. To find FLINTA toilets please check the map in the festival booklet and signs.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "FLINTA Toilets",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Food Forest (Food Court)\nA: **Topic:** Food Forest (Food Court)  \n**Content:** Did you know that Garbicz Festival (Garbicz) is secretly a food festival? Look and smell around, meet the kitchen teams, and trust your gut instincts. This is the way, and you will always feel yummy in your tummy. We serve international cuisine and Polish classics as well as a wide selection of drinks. It is worth trying our delicious and multicultural food stands. In addition to the regular food stalls, the Food Forest (Food Court) also hosts beautiful dinners, brunches, and tastings – perfect for both solo foodies and hungry crews. Spots are limited, so we recommend booking in advance. Check out our Extras!",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Food Forest (Food Court)",
+      "type": "general info",
+      "keywords": [
+        "food forest (food court)"
+      ],
+      "location": {
+        "name": "Food Forest (Food Court)",
+        "coordinates": {
+          "lat": 52.302919,
+          "lon": 15.001182
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Groceries & Supplies\nA: **Topic:** Groceries & Supplies  \n**Content:** You should pre-top up your wristband. You pay for everything on site with your Wristband only. Personal food is allowed. No glass bottles. No barbecues. Dispose of waste responsibly.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Groceries & Supplies",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Guest Accessibility\nA: **Topic:** Guest Accessibility  \n**Content:** Due to the wild and natural terrain of our festival grounds, we unfortunately do not have the infrastructure to accommodate disabilities at this time. We thank you for your understanding.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Guest Accessibility",
+      "type": "general info",
+      "keywords": [
+        "access"
+      ]
+    }
+  },
+  {
+    "text": "Q: Lost & Found\nA: **Topic:** Lost & Found  \n**Content:** Lost & Found items are handled at the Infopoint (Festival Info). As festival organizers in Poland we have legal obligations. During the festival, we secure items in a safe place at our Infopoint (Festival Info), record the find, and do our best to return lost items immediately. After the festival, unclaimed items must be handed over to Polish authorities according to Polish law. Ordinary items go to Starostwo Powiatowe w Sulęcinie (county office) at Lipowa 18, 69-200 Sulęcin, Poland. Valuable items and documents go to the police station. Items are kept for 1 year from the date of notification. Contact: verloren@garbiczfestival.com",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Lost & Found",
+      "type": "general info",
+      "keywords": [
+        "infopoint (festival info)"
+      ],
+      "location": {
+        "name": "Infopoint (Festival Info)",
+        "coordinates": {
+          "lat": 52.302689,
+          "lon": 15.000913
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Musicians & DJ\nA: **Topic:** Musicians & DJ  \n**Content:** We do not accept applications for musicians and DJs. We still hope you come and spend an amazing time with us at the festival.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Musicians & DJ",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: No Photo Policy\nA: **Topic:** No Photo Policy  \n**Content:** Please do not take any photos or videos with your smartphone on the dancefloors. Also do not bring any equipment like SLR, video, or analog cameras on the festival grounds. These are strict rules and ensure an immersive and safe experience for all of us. Additionally there will be a badged media team that will work respectfully.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "No Photo Policy",
+      "type": "general info",
+      "keywords": [
+        "rules"
+      ]
+    }
+  },
+  {
+    "text": "Q: Power - Solare Einsatzleitung\nA: **Topic:** Power - Solare Einsatzleitung  \n**Content:** Join this amazing group of renewable-energy activists, and use their retrofit firetruck to charge your smartphone. Simply by the power of the sun, and completely for free. Oh, and you can also charge or power your shaver, hairdryer, deep fryer, or massage device.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Power - Solare Einsatzleitung",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Power - TruckLock\nA: **Topic:** Power - TruckLock  \n**Content:** This truck is loaded with lockers to keep your valuables safe. Just book online or ask the friendly TruckLock staff. There are different sized lockers, some also have power to keep your batteries charged.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Power - TruckLock",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Soundsystem\nA: **Topic:** Soundsystem  \n**Content:** You don't need to bring your own soundsystem with you. There are enough good tunes going around the festival, and give your camping neighbors some well-deserved rest.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Soundsystem",
+      "type": "general info",
+      "keywords": [
+        "camping"
+      ]
+    }
+  },
+  {
+    "text": "Q: Tentation Stay\nA: **Topic:** Tentation Stay  \n**Content:** All tents for Tentation Stay 2025 are SOLD OUT – thank you for the overwhelming love. To accommodate more Tentation lovers we offer a limited amount of extra tents in WUNDERWALD. Please note: The Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) entrance ticket is NOT included in this purchase! If you'd like to be the first to hear about next year's glamping bookings, simply drop us a line at tentation@garbiczfestival.com and we'll add you to the 2026 mailing list.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Tentation Stay",
+      "type": "general info",
+      "keywords": [
+        "tentation stay"
+      ],
+      "location": {
+        "name": "Tentation Stay",
+        "coordinates": {
+          "lat": 52.303522,
+          "lon": 15.002848
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Ticket Swap\nA: **Topic:** Ticket Swap  \n**Content:** Bought your ticket and can't go? You can make somebody else enormously happy with it. To resell your ticket(s), you have to fill out the personalization form first in order to be able to get the PDF file and the ticket code that's required to create the offer on Ticketswap. Don't know how? Write to our partners at Hoeme who can help you with that. As soon as someone buys your ticket, your own ticket becomes invalid and a new ticket is created for the new owner, which then also has to be personalized by them with their own data.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Ticket Swap",
+      "type": "general info",
+      "keywords": [
+        "tickets"
+      ]
+    }
+  },
+  {
+    "text": "Q: Wednesday Ticket\nA: **Topic:** Wednesday Ticket  \n**Content:** Wednesday Tickets are available online! ONLY VALID IN COMBINATION WITH A FESTIVAL TICKET. This ticket grants you early access to Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) from on the 30.07 – 12:00pm. With this ticket, we offer a preview to enjoy the diverse facets of Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) in a serene setting, before the large dance floors come alive. Get a head start to your weekend as we open our art and lighting installations for viewing. Participate in workshops and enjoy the sauna at Lichtung Area. Engage in interactive plays and performances or just taste delights from food stalls with live music in our winebar, or just unwind by our beautiful lake and release your travel tension.\n\n---\n\n### Safety & Security",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Wednesday Ticket",
+      "type": "general info",
+      "keywords": [
+        "lichtung",
+        "access",
+        "safety",
+        "tickets"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Awareness Team\nA: **Topic:** Awareness Team  \n**Content:** Festivals and other cultural events offer spaces for hedonism and exuberance. They are meant to help balance and let go. They form important cultural and social spaces for, among others, people who are met with oppression and discrimination in everyday life every day. This makes it all the more important to make these spaces, which are particularly worthy of protection, as safe as possible. We live in a world full of patriarchal power structures. It is our task to break up these structures and to counteract them decisively. We want to create a space at Garbicz Festival (Garbicz) that is characterized by mutual respect and consensus. Let's create a world together in which we can all feel safe. The awareness structures of the Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) are currently under construction. We are doing everything we can to make our spaces and yours less discriminatory. We will be at the festival with an awareness team and see ourselves as your friends, listeners and supporters. You can find us next to Eclipse and the Medical Team (Medics), next to the food court. We are there for you if you need our help or support. We don't tolerate sexism, racism, rejectionism, queerphobia or any other form of discrimination at Garbicz Festival (Garbicz).",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Awareness Team",
+      "type": "general info",
+      "keywords": [
+        "food forest (food court)"
+      ],
+      "location": {
+        "name": "Food Forest (Food Court)",
+        "coordinates": {
+          "lat": 52.302919,
+          "lon": 15.001182
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: First Aid\nA: **Topic:** First Aid  \n**Content:** We have Polish, English, and German-speaking Medical Team (Medics) on site, supported by the experienced team from Eclipse. They are equipped to assist in critical situations. That said, everyone is responsible for their own well-being. Take care of yourself and those around you. No one wants to miss out on the fun by ending up in psychiatric care or a hospital.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "First Aid",
+      "type": "general info",
+      "keywords": [
+        "medical team (medics)"
+      ],
+      "location": {
+        "name": "Medical Team (Medics)",
+        "coordinates": {
+          "lat": 52.302888,
+          "lon": 15.000353
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: ID Check at Entry\nA: **Topic:** ID Check at Entry  \n**Content:** We'll be checking IDs at the entrance, so please bring an official photo ID with you. No exceptions – thank you for understanding.\n\n---\n\n### Transportation",
+    "meta": {
+      "category": "FAQ",
+      "topic": "ID Check at Entry",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Bassliner Bus\nA: **Topic:** Bassliner Bus  \n**Content:** We strongly recommend taking one of the bassliner busses from Berlin Ostbahnhof. No change of trains and tracks and arrive directly on site with a drink in hand. Booking is available through their website. They usually add rides as bookings fill up, so don't wait until the very end to catch your preferred slot. Journey takes approx. 2h in a perfect world, but be prepared for potential border control checks, which can add to travel times. Bassliner Tickets are NOT INCLUDED in your ticket this year.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Bassliner Bus",
+      "type": "general info",
+      "keywords": [
+        "tickets"
+      ]
+    }
+  },
+  {
+    "text": "Q: Camper Van Arrival\nA: **Topic:** Camper Van Arrival  \n**Content:** Pass through Garbicz Festival (Garbicz) village for accreditation and receive your Camper Sticker, granting access to the festival site. Each sleeping vehicle requires one sticker; cars delivering wagons must park in our designated lot. Trust in our skilled traffic team and follow their instructions for a hassle-free experience.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Camper Van Arrival",
+      "type": "general info",
+      "keywords": [
+        "accreditation",
+        "access"
+      ],
+      "location": {
+        "name": "Accreditation",
+        "coordinates": {
+          "lat": 52.30662,
+          "lon": 14.999932
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Car Arrival\nA: **Topic:** Car Arrival  \n**Content:** Secured parking is available throughout the festival and ticket is mandatory. Shuttles will go from car park to festival grounds 24/7. You can't sleep in the car during the festival and you cannot leave your car anywhere else. Trust in our skilled traffic team and follow their instructions for a hassle-free experience. We have been in discussions with the fire department about electric cars. However, due to the ongoing drought and increased fire risk, we urge everyone to exercise caution and be vigilant. The lack of specific regulations on this matter contributed to the length of our discussions, as we needed to ensure that all safety concerns were thoroughly addressed. We must prioritize guidance from the fire department before we can provide further information.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Car Arrival",
+      "type": "general info",
+      "keywords": [
+        "safety"
+      ]
+    }
+  },
+  {
+    "text": "Q: Train Arrival\nA: **Topic:** Train Arrival  \n**Content:** Arrive at Rzepin (Poland) and share a 30-euro taxi to the site. Check your preferred connections in advance and regularly. We recommend taking the bassliner bus (see above).",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Train Arrival",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Airports & Transfers\nA: **Topic:** Airports & Transfers  \n**Content:** If you're flying in, Berlin Schönefeld is the nearest airport. For Bassliner passengers arriving by plane, the meeting point is at Berlin Ostbahnhof station. If you're landing in Poland, Poznan Airport is the closest, located 149 km away (approximately 1:30 hours by car), but you'll need to arrange your own transportation from there.\n\n---\n\n### Payment",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Airports & Transfers",
+      "type": "general info",
+      "keywords": [
+        "payment"
+      ]
+    }
+  },
+  {
+    "text": "Q: Payment on site\nA: **Topic:** Payment on site  \n**Content:** Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) is completely cashless! We use a contactless RFID payment system, which means your wristband chip is your digital wallet that you fill up with Szunnys. 1 Szunny = 1 Zloty. You'll use your wristband to pay for food, drinks, and goods at all vendors and bars on site. You can top it up with money at any time on-site and check your balance at any vendor or top-up station. Festival pre-top-up is highly recommended to skip the lines! If you purchased a festival pre-top-up on our website, simply show the QR code at accreditation during check-in. If your chip isn't working or you've lost your wristband, visit the Infopoint (Festival Info) where our troubleshooting team can block the old one and transfer your remaining balance to a new wristband. Keep your wristband for refund after the festival.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Payment on site",
+      "type": "general info",
+      "keywords": [
+        "accreditation",
+        "payment"
+      ],
+      "location": {
+        "name": "Accreditation",
+        "coordinates": {
+          "lat": 52.30662,
+          "lon": 14.999932
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Deposit\nA: **Topic:** Deposit  \n**Content:** There is a deposit on all glasses and bottles. Deposit is only refundable after the festival, if it was paid with Szunnys you charged up on the festival site. Deposits which were bought with your pre-loaded Szunnys are not refundable for technical reasons – however, they can be used for any purchases on site.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Deposit",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Are wellness services included in festival ticket?\nA: **Topic:** Are wellness services included in festival ticket?  \n**Content:** 1:1 wellness treatments such as Massages, Reiki, Womb Healing, individual Breathwork Coaching and the Sound Tube Experience at Lichtung Area require separate payment and are not included in the festival ticket. However, access to the Banja (steam sauna), workshops, and immersive performances are included in your festival pass. All payments on-site are cashless via the festival wristband system. Please top up your wristband in advance for smooth access to services.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Are wellness services included in festival ticket?",
+      "type": "general info",
+      "keywords": [
+        "access",
+        "payment",
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: What payment methods are accepted for massages?\nA: **Topic:** What payment methods are accepted for massages?  \n**Content:** All payments are cashless via the Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) wristband system. You can top up your wristband online or at designated top-up points throughout the festival.\n\n---\n\n### Wellness & Lichtung Area",
+    "meta": {
+      "category": "FAQ",
+      "topic": "What payment methods are accepted for massages?",
+      "type": "general info",
+      "keywords": [
+        "payment",
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: What types of wellness treatments are available at Lichtung Area?\nA: **Topic:** What types of wellness treatments are available at Lichtung Area?  \n**Content:** Lichtung Area offers a range of wellness experiences including Therapeutic Massage, Deep Tissue & Fascia Release, Lomi Lomi, Somatic Bodywork, Reiki, Womb Healing, 1:1 Breathwork Coaching and the immersive Sound Tube Experience. All sessions are designed to support deep rest, somatic integration, and emotional regulation.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "What types of wellness treatments are available at Lichtung Area?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: How can I book a massage or treatment at Lichtung Area?\nA: **Topic:** How can I book a massage or treatment at Lichtung Area?  \n**Content:** You can pre-book your session online before the festival. You will then have the opportunity to secure your preferred time and therapist when you arrive at Lichtung Area. Walk-in bookings will be available during the festival at the Reception area of Lichtung Area, but we recommend booking your time slot within the first days of the festival as they can sell out quickly.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "How can I book a massage or treatment at Lichtung Area?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Is it necessary to book treatments in advance?\nA: **Topic:** Is it necessary to book treatments in advance?  \n**Content:** It is advisable to book in advance if possible, as wellness services at Lichtung Area are popular and may have limited availability.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Is it necessary to book treatments in advance?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Where is Lichtung Area located?\nA: **Topic:** Where is Lichtung Area located?  \n**Content:** Lichtung Area is the dedicated health and wellness zone at Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)), located near the Tentation area by the lake. It's a tranquil space offering massages, treatments, workshops, performances, and live music at the Ali's Teebar. Follow the signs — and the eye — to find us!",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Where is Lichtung Area located?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Can I participate in other wellness activities besides massages?\nA: **Topic:** Can I participate in other wellness activities besides massages?  \n**Content:** Absolutely! Lichtung Area offers a variety of wellness activities including yoga, movement classes, sauna sessions, and a diverse range of breathwork techniques. These offerings are designed to help you regulate your nervous system and reconnect with your body in the middle of the festival experience.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Can I participate in other wellness activities besides massages?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Who can I contact about Lichtung Area booking?\nA: **Topic:** Who can I contact about Lichtung Area booking?  \n**Content:** For specific questions about massage or treatment availability at Lichtung Area, feel free to contact our coordination team at lichtung@garbiczfestival.com. You can also reach out via the official Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) website's support form.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Who can I contact about Lichtung Area booking?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: What types of dinner and brunches are available at Lichtung Area?\nA: **Topic:** What types of dinner and brunches are available at Lichtung Area?  \n**Content:** Lichtung Area offers a range of pop up food experiences on a playground in the forest.\n\n---\n\n### Sustainability",
+    "meta": {
+      "category": "FAQ",
+      "topic": "What types of dinner and brunches are available at Lichtung Area?",
+      "type": "general info",
+      "keywords": [
+        "lichtung"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Confetti\nA: **Topic:** Confetti  \n**Content:** We love nature more, so please leave your glitter and confetti at home.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Confetti",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Sustainability\nA: **Topic:** Sustainability  \n**Content:** Please keep in mind that we are partying in a nature reserve, so it is very important to respect nature, and act responsibly. To protect this incredible piece of land, please follow these simple steps that are part of our sustainability concept: Do not bring rubbish to the Festival. If you have rubbish please use the designated rubbish areas for disposal. Read the signs carefully and drop rubbish accordingly. Do Not throw any cigarettes on the ground or into the lake. The Filters are extremely harmful to the environment. Please use pocket ashtrays. Read our sustainability guide on how you can join us on our vital mission.\n\n---\n\n### Camping",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Sustainability",
+      "type": "general info",
+      "keywords": [
+        "camping"
+      ]
+    }
+  },
+  {
+    "text": "Q: Festival Camping\nA: **Topic:** Festival Camping  \n**Content:** You find all info about general camping, campervans, camping locations, and parking in our Camping FAQs.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Festival Camping",
+      "type": "general info",
+      "keywords": [
+        "camping"
+      ]
+    }
+  },
+  {
+    "text": "Q: General Camping\nA: **Topic:** General Camping  \n**Content:** Bringing your own tent? You can pitch it in the general camping area for free. For your own installation we recommend a small, cosy and neat tent. This is the best way to enjoy the land and create the best atmosphere for all to enjoy. Avoid building your own stage on the camping site, it will not be appreciated as much as you want it to be. No tent camping is allowed outside the general camping area. Tents are not allowed in the carpark or campervan areas.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "General Camping",
+      "type": "general info",
+      "keywords": [
+        "camping"
+      ]
+    }
+  },
+  {
+    "text": "Q: Car Parking\nA: **Topic:** Car Parking  \n**Content:** Bringing your own car to Garbicz Festival (Garbicz)? You can park it at the Car Park in the village with a car park ticket. Parking anywhere else in the city or in the festival grounds is not allowed. The car park is secured 24/7 from Wednesday to Wednesday. Please note: You are neither allowed to sleep in the car nor to pitch a tent on your car.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Car Parking",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Campervan Parking\nA: **Topic:** Campervan Parking  \n**Content:** Our caravan camping areas at Garbicz Festival (Garbicz) are a wonderful experience, with different vibes to suit your needs and moods. Like it more silent? Try our silent camp. Wanna be close to the festival? Try the On-site camping. Please note: each campervan must have a campervan ticket. On top of that, each person staying in the vehicle must have their own individual entry ticket to the festival which is purchased separately. When you arrive to Garbicz Festival (Garbicz), please collect your Camper Vehicle Pass from the accreditation point. Please follow the instructions of our traffic team for a hassle-free experience.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Campervan Parking",
+      "type": "general info",
+      "keywords": [
+        "camping",
+        "accreditation"
+      ],
+      "location": {
+        "name": "Accreditation",
+        "coordinates": {
+          "lat": 52.30662,
+          "lon": 14.999932
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: Camping Rules - Safety & Respect\nA: **Topic:** Camping Rules - Safety & Respect  \n**Content:** Our grounds are a safe space where all beings and nature can express themselves freely while being. Yes, look after each other. Yes, ask for help and help others. Yes, drink enough water! Yes, use our toilets! For nature's sake... Please do nothing without consent. No means no and only yes means yes. No answer is not an agreement. Be aware that sexual violence does not start with physical abuse. Also unwanted verbal approaches or harassment are not ok and can lead to exclusion of the festival. Discrimination of any kind, especially on the basis of gender, sexual orientation or origin have no place here! Together we want to create a safer space. Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) has a no tolerance policy for any of these behaviors. Be polite. Be consensual.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Camping Rules - Safety & Respect",
+      "type": "general info",
+      "keywords": [
+        "camping",
+        "rules",
+        "safety"
+      ]
+    }
+  },
+  {
+    "text": "Q: Camping Rules - Environmental\nA: **Topic:** Camping Rules - Environmental  \n**Content:** Celebrate without Confetti & Glitter. Cigarette butts belong in the bin! Use your fancy portable ashtray! No glass allowed on Site! And please support us and don't bring your own booze to the dancefloors. Don't play with fire. Do not risk a fire in the woods. We love dogs, but leave them at home. We have great sound systems, don't bring your own. Leave no trace, don't bring plastic on site and clean your space.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Camping Rules - Environmental",
+      "type": "general info",
+      "keywords": [
+        "camping",
+        "rules"
+      ]
+    }
+  },
+  {
+    "text": "Q: Can I still rent a bell tent?\nA: **Topic:** Can I still rent a bell tent?  \n**Content:** Sure! Please email to tentation@garbiczfestival.com",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Can I still rent a bell tent?",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Will there be electricity for campervans?\nA: **Topic:** Will there be electricity for campervans?  \n**Content:** No, there won't be electricity. Please be aware of that.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Will there be electricity for campervans?",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Can I shower on the campsites?\nA: **Topic:** Can I shower on the campsites?  \n**Content:** Toilettes + showers at all campsites – On-Site and Off-Site.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Can I shower on the campsites?",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: Are there water points for campers?\nA: **Topic:** Are there water points for campers?  \n**Content:** There will be several water points, mainly for drinking water. Water is rare, so please don't fill you camper with it and use the showers on the festival site.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "Are there water points for campers?",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Q: ON-SITE CAMP\nA: **Topic:** ON-SITE CAMP  \n**Content:** As the name might suggest, the on-site camp is in the middle of the action, within walking distance of everything the festival has to offer. Ideally located, far enough from the main floors, this is the dream spot for those who want to experience everything up close.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "ON-SITE CAMP",
+      "type": "general info",
+      "keywords": [
+        "main camping (on-site camp)"
+      ],
+      "location": {
+        "name": "Main Camping (On-Site Camp)",
+        "coordinates": {
+          "lat": 52.303522,
+          "lon": 15.002848
+        }
+      }
+    }
+  },
+  {
+    "text": "Q: SILENT CAMP\nA: **Topic:** SILENT CAMP  \n**Content:** Need some peace and quiet? Just before the gate, we created a silent camping area, full of tranquility to enjoy the silence for those who prefer to be away and not too far. Please respect your neighbours and don´t bring your boombox as others may stay at Silent Camping (Silent Camp) to rest and seek tranquility.",
+    "meta": {
+      "category": "FAQ",
+      "topic": "SILENT CAMP",
+      "type": "general info",
+      "keywords": [
+        "camping",
+        "silent camping (silent camp)"
+      ],
+      "location": {
+        "name": "Silent Camping (Silent Camp)",
+        "coordinates": {
+          "lat": 52.307823,
+          "lon": 14.997748
+        }
+      }
+    }
+  },
+  {
+    "text": "Weißwurstfrühstück: **Category:** Gastronomy  \n**Topic:** Weißwurstfrühstück  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Friday. Time: 10:00-13:00. Type: dining\n\n**Category:** Gastronomy  \n**Topic:** Weißwurstfrühstück  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Saturday. Time: 10:00-13:00. Type: dining\n\n**Category:** Gastronomy  \n**Topic:** Weißwurstfrühstück  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Sunday. Time: 10:00-13:00. Type: dining",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Weißwurstfrühstück",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Breakfast: Morning Glory: **Category:** Gastronomy  \n**Topic:** Breakfast: Morning Glory  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Friday. Time: 10:00-13:00. Type: breakfast\n\n**Category:** Gastronomy  \n**Topic:** Breakfast: Morning Glory  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Saturday. Time: TBD. Type: breakfast\n\n**Category:** Gastronomy  \n**Topic:** Breakfast: Morning Glory  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Sunday. Time: TBD. Type: breakfast",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Breakfast: Morning Glory",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Floral Picnic Brunch: **Category:** Gastronomy  \n**Topic:** Floral Picnic Brunch  \n**Content:** Event: Floral Picnic Brunch. Location: Lichtung Reception. Day: Sunday. Time: 12:00–15:00. Type: brunch",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Floral Picnic Brunch",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Naked Brunch: **Category:** Gastronomy  \n**Topic:** Naked Brunch  \n**Content:** Event: Naked Brunch. Location: Lichtung Reception. Day: Saturday. Time: 12:00–15:00. Type: brunch",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Naked Brunch",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Taste of Color: **Category:** Gastronomy  \n**Topic:** Taste of Color  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: Thursday. Time: TBD. Type: dining\n\n**Category:** Gastronomy  \n**Topic:** Taste of Color  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: Friday. Time: TBD. Type: dining\n\n**Category:** Gastronomy  \n**Topic:** Taste of Color  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: TBD. Time: TBD. Type: dining",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Taste of Color",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Noma Botanical Dinner: **Category:** Gastronomy  \n**Topic:** Noma Botanical Dinner  \n**Content:** Event: Noma Botanical Dinner. Location: Lichtung Reception. Day: Thursday. Time: TBD. Type: dinner\n\n**Category:** Gastronomy  \n**Topic:** Noma Botanical Dinner  \n**Content:** Event: Noma Botanical Dinner. Location: Lichtung Reception. Day: Friday. Time: TBD. Type: dinner\n\n---\n\n## Schedule Information",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Noma Botanical Dinner",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Weißwurstfrühstück Timing: **Category:** Schedule  \n**Topic:** Weißwurstfrühstück - Timing  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Friday. Time: 10:00-13:00. Schedule: Friday, 01.08.2025, 10:00-13:00\n\n**Category:** Schedule  \n**Topic:** Weißwurstfrühstück - Timing  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Saturday. Time: 10:00-13:00. Schedule: Saturday, 02.082025, 10:00-13:00\n\n**Category:** Schedule  \n**Topic:** Weißwurstfrühstück - Timing  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Day: Sunday. Time: 10:00-13:00. Schedule: Sunday, 03.08.2025, 10:00-13:00",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Weißwurstfrühstück Timing",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Morning Glory Timing: **Category:** Schedule  \n**Topic:** Breakfast: Morning Glory - Timing  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Friday. Time: 10:00-13:00. Schedule: Friday, 01.08.2025, 10:00-13:00\n\n**Category:** Schedule  \n**Topic:** Breakfast: Morning Glory - Timing  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Saturday. Time: TBD. Schedule: Saturday, 02.08.2025, 10:00 – 13:00\n\n**Category:** Schedule  \n**Topic:** Breakfast: Morning Glory - Timing  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Day: Sunday. Time: TBD. Schedule: Sunday, 03.08.2025, 10:00 – 13:00",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Morning Glory Timing",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Floral Picnic Brunch Timing: **Category:** Schedule  \n**Topic:** Floral Picnic Brunch - Timing  \n**Content:** Event: Floral Picnic Brunch. Location: Lichtung Reception. Day: Sunday. Time: 12:00–15:00. Schedule: Sunday, 03.08.2025, 12:00–15:00",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Floral Picnic Brunch Timing",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Naked Brunch Timing: **Category:** Schedule  \n**Topic:** Naked Brunch - Timing  \n**Content:** Event: Naked Brunch. Location: Lichtung Reception. Day: Saturday. Time: 12:00–15:00. Schedule: Saturday, 02.08.2025, 12:00–15:00",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Naked Brunch Timing",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Taste of Color Timing: **Category:** Schedule  \n**Topic:** Taste of Color - Timing  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: Thursday. Time: TBD. Schedule: Thursday, 31.07.2025, 18:30 – 20:30\n\n**Category:** Schedule  \n**Topic:** Taste of Color - Timing  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: Friday. Time: TBD. Schedule: Friday, 01.08.2025, 18:30 – 20:30\n\n**Category:** Schedule  \n**Topic:** Taste of Color - Timing  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Day: TBD. Time: TBD. Schedule: Samstag, 02.08.2025, 18:30 – 20:30",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Taste of Color Timing",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Noma Botanical Dinner Timing: **Category:** Schedule  \n**Topic:** Noma Botanical Dinner - Timing  \n**Content:** Event: Noma Botanical Dinner. Location: Lichtung Reception. Day: Thursday. Time: TBD. Schedule: Thursday, 31.07.2025 19:00 – 22:00\n\n**Category:** Schedule  \n**Topic:** Noma Botanical Dinner - Timing  \n**Content:** Event: Noma Botanical Dinner. Location: Lichtung Reception. Day: Friday. Time: TBD. Schedule: Friday, 01.08.2025 19:00 – 22:00\n\n---\n\n## Seating Arrangements",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Noma Botanical Dinner Timing",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Weißwurstfrühstück Arrangement: **Category:** Seating  \n**Topic:** Weißwurstfrühstück - Arrangement  \n**Content:** Event: Weißwurstfrühstück. Location: Schnitzelterrace. Style: standard. Atmosphere: casual dining. Reservation: standard",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Weißwurstfrühstück Arrangement",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Morning Glory Arrangement: **Category:** Seating  \n**Topic:** Breakfast: Morning Glory - Arrangement  \n**Content:** Event: Breakfast: Morning Glory. Location: Rooftop Nest. Style: carpet seating. Atmosphere: relaxed ground-level. Reservation: standard",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Morning Glory Arrangement",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Floral Picnic Brunch Arrangement: **Category:** Seating  \n**Topic:** Floral Picnic Brunch - Arrangement  \n**Content:** Event: Floral Picnic Brunch. Location: Lichtung Reception. Style: picnic tables. Atmosphere: communal outdoor. Reservation: walk-ins welcome",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Floral Picnic Brunch Arrangement",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Naked Brunch Arrangement: **Category:** Seating  \n**Topic:** Naked Brunch - Arrangement  \n**Content:** Event: Naked Brunch. Location: Lichtung Reception. Style: picnic style. Atmosphere: casual outdoor. Reservation: standard",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Naked Brunch Arrangement",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "Taste of Color Arrangement: **Category:** Seating  \n**Topic:** Taste of Color - Arrangement  \n**Content:** Event: Taste of Color. Location: Rooftop Nest. Style: terrace seating. Atmosphere: elevated dining. Reservation: standard",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Taste of Color Arrangement",
+      "type": "dining",
+      "keywords": []
+    }
+  },
+  {
+    "text": "Noma Botanical Dinner Arrangement: **Category:** Seating  \n**Topic:** Noma Botanical Dinner - Arrangement  \n**Content:** Event: Noma Botanical Dinner. Location: Lichtung Reception. Style: forest dining. Atmosphere: magical outdoor. Reservation: standard",
+    "meta": {
+      "category": "Gastronomy",
+      "topic": "Noma Botanical Dinner Arrangement",
+      "type": "dining",
+      "keywords": [
+        "lichtung"
+      ]
+    }
+  },
+  {
+    "text": "1781 Collective - classical prelude performs at Lichtung Stage on Thursday, July 31st at 20:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "1781 Collective - classical prelude @ Lichtung Stage",
+      "type": "PERFORMANCE",
+      "event": {
+        "name": "1781 Collective - classical prelude",
+        "day": "Thursday, July 31st",
+        "time": "20:00-22:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Amapola & Arnau Yuna performs at Seebühne (See Floor) on Thursday, July 31st at 15:00-17:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Amapola & Arnau Yuna @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Amapola & Arnau Yuna",
+        "day": "Thursday, July 31st",
+        "time": "15:00-17:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Velvet Whispers by Zohar feat. Ha:arp performs at Lichtung Stage on Thursday, July 31st at 16:00-18:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Velvet Whispers by Zohar feat. Ha:arp @ Lichtung Stage",
+      "type": "PERFORMANCE",
+      "event": {
+        "name": "Velvet Whispers by Zohar feat. Ha:arp",
+        "day": "Thursday, July 31st",
+        "time": "16:00-18:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Ilyari performs at Seebühne (See Floor) on Thursday, July 31st at 17:30-18:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Ilyari @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Ilyari",
+        "day": "Thursday, July 31st",
+        "time": "17:30-18:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Open Stage: Piano Contest performs at Lichtung Stage on Thursday, July 31st at 18:00-20:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Open Stage: Piano Contest @ Lichtung Stage",
+      "type": "OPEN STAGE",
+      "event": {
+        "name": "Open Stage: Piano Contest",
+        "day": "Thursday, July 31st",
+        "time": "18:00-20:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Captain of None performs at Seebühne (See Floor) on Thursday, July 31st at 18:30-20:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Captain of None @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Captain of None",
+        "day": "Thursday, July 31st",
+        "time": "18:30-20:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Nectar performs at Lichtung Stage on Thursday, July 31st at 20:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Nectar @ Lichtung Stage",
+      "type": "LIVE",
+      "event": {
+        "name": "Nectar",
+        "day": "Thursday, July 31st",
+        "time": "20:00-22:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Ficken und Faulenzen Performance performs at Seebühne (See Floor) on Thursday, July 31st at 20:30-21:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Ficken und Faulenzen Performance @ Seebühne (See Floor)",
+      "type": "PERFORMANCE",
+      "event": {
+        "name": "Ficken und Faulenzen Performance",
+        "day": "Thursday, July 31st",
+        "time": "20:30-21:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "performance",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Kitty and the Cat performs at Seebühne (See Floor) on Thursday, July 31st at 21:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Kitty and the Cat @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Kitty and the Cat",
+        "day": "Thursday, July 31st",
+        "time": "21:00-22:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "[äis] performs at Seebühne (See Floor) on Thursday, July 31st at 22:00-23:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "[äis] @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "[äis]",
+        "day": "Thursday, July 31st",
+        "time": "22:00-23:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Laura Sequoia performs at Lichtung Stage on Thursday, July 31st at 22:00-23:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Laura Sequoia @ Lichtung Stage",
+      "type": "LIVE",
+      "event": {
+        "name": "Laura Sequoia",
+        "day": "Thursday, July 31st",
+        "time": "22:00-23:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Gunnar Mühlmann: Ouroboros Meditation performs at Lichtung Stage on Thursday, July 31st at 23:00-00:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Gunnar Mühlmann: Ouroboros Meditation @ Lichtung Stage",
+      "type": "MEDITATION",
+      "event": {
+        "name": "Gunnar Mühlmann: Ouroboros Meditation",
+        "day": "Thursday, July 31st",
+        "time": "23:00-00:00"
+      },
+      "keywords": [
+        "day",
+        "lichtung",
+        "stage"
+      ],
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "JPattersson performs at Seebühne (See Floor) on Friday, August 1st at 23:30-00:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "JPattersson @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "JPattersson",
+        "day": "Friday, August 1st",
+        "time": "23:30-00:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Yamz performs at Seebühne (See Floor) on Friday, August 1st at 00:30-02:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Yamz @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "Yamz",
+        "day": "Friday, August 1st",
+        "time": "00:30-02:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Ed Noodle performs at Seebühne (See Floor) on Friday, August 1st at 02:00-03:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Ed Noodle @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "Ed Noodle",
+        "day": "Friday, August 1st",
+        "time": "02:00-03:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Athie Umgido performs at Seebühne (See Floor) on Friday, August 1st at 03:30-05:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Athie Umgido @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "Athie Umgido",
+        "day": "Friday, August 1st",
+        "time": "03:30-05:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Deep Ghosh performs at Seebühne (See Floor) on Friday, August 1st at 05:00-06:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Deep Ghosh @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "Deep Ghosh",
+        "day": "Friday, August 1st",
+        "time": "05:00-06:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Opening Ceremony Lila Collective performs at Ambientfloor on Friday, August 1st at 12:00-14:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Opening Ceremony Lila Collective @ Ambientfloor",
+      "type": "CEREMONY",
+      "event": {
+        "name": "Opening Ceremony Lila Collective",
+        "day": "Friday, August 1st",
+        "time": "12:00-14:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Heimlich Knüller performs at Seebühne (See Floor) on Friday, August 1st at 13:30-17:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Heimlich Knüller @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Heimlich Knüller",
+        "day": "Friday, August 1st",
+        "time": "13:30-17:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "DS83 performs at Ambientfloor on Friday, August 1st at 14:00-16:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "DS83 @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "DS83",
+        "day": "Friday, August 1st",
+        "time": "14:00-16:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Leafar Legov performs at Ambientfloor on Friday, August 1st at 16:00-17:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Leafar Legov @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Leafar Legov",
+        "day": "Friday, August 1st",
+        "time": "16:00-17:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Ojam feat. LENI performs at Seebühne (See Floor) on Friday, August 1st at 17:00-18:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Ojam feat. LENI @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Ojam feat. LENI",
+        "day": "Friday, August 1st",
+        "time": "17:00-18:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Laura Fiore performs at Ambientfloor on Friday, August 1st at 17:30-19:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Laura Fiore @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Laura Fiore",
+        "day": "Friday, August 1st",
+        "time": "17:30-19:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "DJ Smut performs at Seebühne (See Floor) on Friday, August 1st at 18:00-21:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "DJ Smut @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "DJ Smut",
+        "day": "Friday, August 1st",
+        "time": "18:00-21:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "dj",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Lev Radagan performs at Ambientfloor on Friday, August 1st at 19:30-21:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Lev Radagan @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Lev Radagan",
+        "day": "Friday, August 1st",
+        "time": "19:30-21:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Dharma &Abdallah performs at Ambientfloor on Friday, August 1st at 21:00-23:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dharma &Abdallah @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Dharma &Abdallah",
+        "day": "Friday, August 1st",
+        "time": "21:00-23:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Midsummer Night's Cream Performance performs at Seebühne (See Floor) on Friday, August 1st at 21:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Midsummer Night's Cream Performance @ Seebühne (See Floor)",
+      "type": "PERFORMANCE",
+      "event": {
+        "name": "Midsummer Night's Cream Performance",
+        "day": "Friday, August 1st",
+        "time": "21:00-22:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "performance",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Muovipussi Performance performs at Seebühne (See Floor) on Friday, August 1st at 22:00-23:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Muovipussi Performance @ Seebühne (See Floor)",
+      "type": "PERFORMANCE",
+      "event": {
+        "name": "Muovipussi Performance",
+        "day": "Friday, August 1st",
+        "time": "22:00-23:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "performance",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Mantravine performs at Ambientfloor on Friday, August 1st at 23:00-01:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Mantravine @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Mantravine",
+        "day": "Friday, August 1st",
+        "time": "23:00-01:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Spievy performs at Seebühne (See Floor) on Friday, August 1st at 23:00-23:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Spievy @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Spievy",
+        "day": "Friday, August 1st",
+        "time": "23:00-23:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Khidja performs at Seebühne (See Floor) on Saturday, August 2nd at 23:30-01:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Khidja @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Khidja",
+        "day": "Saturday, August 2nd",
+        "time": "23:30-01:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "dj",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Dragana performs at Ambientfloor on Saturday, August 2nd at 01:00-03:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dragana @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Dragana",
+        "day": "Saturday, August 2nd",
+        "time": "01:00-03:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Anatolian Weapons performs at Seebühne (See Floor) on Saturday, August 2nd at 01:30-03:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Anatolian Weapons @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Anatolian Weapons",
+        "day": "Saturday, August 2nd",
+        "time": "01:30-03:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Delano Legito performs at Ambientfloor on Saturday, August 2nd at 03:00-05:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Delano Legito @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Delano Legito",
+        "day": "Saturday, August 2nd",
+        "time": "03:00-05:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Front de Cadeaux performs at Seebühne (See Floor) on Saturday, August 2nd at 03:30-05:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Front de Cadeaux @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Front de Cadeaux",
+        "day": "Saturday, August 2nd",
+        "time": "03:30-05:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Casparallel performs at Ambientfloor on Saturday, August 2nd at 05:00-06:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Casparallel @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Casparallel",
+        "day": "Saturday, August 2nd",
+        "time": "05:00-06:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Sutsche performs at Seebühne (See Floor) on Saturday, August 2nd at 05:30-08:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Sutsche @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Sutsche",
+        "day": "Saturday, August 2nd",
+        "time": "05:30-08:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Dave Dinger performs at Ambientfloor on Saturday, August 2nd at 06:00-08:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dave Dinger @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Dave Dinger",
+        "day": "Saturday, August 2nd",
+        "time": "06:00-08:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "jorke performs at Seebühne (See Floor) on Saturday, August 2nd at 08:00-09:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "jorke @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "jorke",
+        "day": "Saturday, August 2nd",
+        "time": "08:00-09:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Selv Ikei performs at Ambientfloor on Saturday, August 2nd at 08:00-09:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Selv Ikei @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Selv Ikei",
+        "day": "Saturday, August 2nd",
+        "time": "08:00-09:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Protodub performs at Ambientfloor on Saturday, August 2nd at 09:00-11:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Protodub @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Protodub",
+        "day": "Saturday, August 2nd",
+        "time": "09:00-11:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "CuCiCuCi performs at Ambientfloor on Saturday, August 2nd at 11:00-13:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "CuCiCuCi @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "CuCiCuCi",
+        "day": "Saturday, August 2nd",
+        "time": "11:00-13:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Leo Cameo performs at Ambientfloor on Saturday, August 2nd at 13:00-16:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Leo Cameo @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Leo Cameo",
+        "day": "Saturday, August 2nd",
+        "time": "13:00-16:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "DirdyGerdi & Mia Kober performs at Seebühne (See Floor) on Saturday, August 2nd at 14:00-16:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "DirdyGerdi & Mia Kober @ Seebühne (See Floor)",
+      "type": "SHOWCASE",
+      "event": {
+        "name": "DirdyGerdi & Mia Kober",
+        "day": "Saturday, August 2nd",
+        "time": "14:00-16:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Konstantin performs at Ambientfloor on Saturday, August 2nd at 16:00-18:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Konstantin @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Konstantin",
+        "day": "Saturday, August 2nd",
+        "time": "16:00-18:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Rico Loop feat. The Pappenheimer's performs at Seebühne (See Floor) on Saturday, August 2nd at 16:00-17:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Rico Loop feat. The Pappenheimer's @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Rico Loop feat. The Pappenheimer's",
+        "day": "Saturday, August 2nd",
+        "time": "16:00-17:30"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Princess Room performs at Seebühne (See Floor) on Saturday, August 2nd at 17:30-19:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Princess Room @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Princess Room",
+        "day": "Saturday, August 2nd",
+        "time": "17:30-19:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Maria & Lila Orchestra performs at Ambientfloor on Saturday, August 2nd at 18:00-20:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Maria & Lila Orchestra @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Maria & Lila Orchestra",
+        "day": "Saturday, August 2nd",
+        "time": "18:00-20:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Martha Van Straaten performs at Seebühne (See Floor) on Saturday, August 2nd at 19:00-21:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Martha Van Straaten @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Martha Van Straaten",
+        "day": "Saturday, August 2nd",
+        "time": "19:00-21:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Spievy performs at Ambientfloor on Saturday, August 2nd at 20:30-21:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Spievy @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Spievy",
+        "day": "Saturday, August 2nd",
+        "time": "20:30-21:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Dj Wife performs at Ambientfloor on Saturday, August 2nd at 21:00-23:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dj Wife @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Dj Wife",
+        "day": "Saturday, August 2nd",
+        "time": "21:00-23:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "dj",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Kabeaushé performs at Seebühne (See Floor) on Saturday, August 2nd at 21:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Kabeaushé @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Kabeaushé",
+        "day": "Saturday, August 2nd",
+        "time": "21:00-22:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Laetizia performs at Seebühne (See Floor) on Saturday, August 2nd at 22:00-00:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Laetizia @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Laetizia",
+        "day": "Saturday, August 2nd",
+        "time": "22:00-00:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Zabralo Sound System performs at Ambientfloor on Sunday, August 3rd at 23:00-01:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Zabralo Sound System @ Ambientfloor",
+      "type": "SOUND SYSTEM",
+      "event": {
+        "name": "Zabralo Sound System",
+        "day": "Sunday, August 3rd",
+        "time": "23:00-01:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Catnapp performs at Seebühne (See Floor) on Sunday, August 3rd at 00:00-01:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Catnapp @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Catnapp",
+        "day": "Sunday, August 3rd",
+        "time": "00:00-01:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "The Dreamies (Live dream set) performs at Ambientfloor on Sunday, August 3rd at 01:00-02:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "The Dreamies (Live dream set) @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "The Dreamies (Live dream set)",
+        "day": "Sunday, August 3rd",
+        "time": "01:00-02:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Lena Willikens performs at Seebühne (See Floor) on Sunday, August 3rd at 01:00-03:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Lena Willikens @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Lena Willikens",
+        "day": "Sunday, August 3rd",
+        "time": "01:00-03:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "K3RMiT D33 performs at Ambientfloor on Sunday, August 3rd at 02:00-04:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "K3RMiT D33 @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "K3RMiT D33",
+        "day": "Sunday, August 3rd",
+        "time": "02:00-04:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Tai Rona b2b Katzele performs at Seebühne (See Floor) on Sunday, August 3rd at 03:00-06:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Tai Rona b2b Katzele @ Seebühne (See Floor)",
+      "type": "B2B",
+      "event": {
+        "name": "Tai Rona b2b Katzele",
+        "day": "Sunday, August 3rd",
+        "time": "03:00-06:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Dj Slowsex & Desira Noroi performs at Ambientfloor on Sunday, August 3rd at 04:00-08:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dj Slowsex & Desira Noroi @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Dj Slowsex & Desira Noroi",
+        "day": "Sunday, August 3rd",
+        "time": "04:00-08:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "dj",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Dr. Gonzo performs at Seebühne (See Floor) on Sunday, August 3rd at 06:00-08:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Dr. Gonzo @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Dr. Gonzo",
+        "day": "Sunday, August 3rd",
+        "time": "06:00-08:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Down Unders performs at Ambientfloor on Sunday, August 3rd at 08:00-12:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Down Unders @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Down Unders",
+        "day": "Sunday, August 3rd",
+        "time": "08:00-12:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Shyam Sundar performs at Ambientfloor on Sunday, August 3rd at 12:00-13:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Shyam Sundar @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Shyam Sundar",
+        "day": "Sunday, August 3rd",
+        "time": "12:00-13:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "3 ohm performs at Ambientfloor on Sunday, August 3rd at 13:00-14:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "3 ohm @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "3 ohm",
+        "day": "Sunday, August 3rd",
+        "time": "13:00-14:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Just1 performs at Seebühne (See Floor) on Sunday, August 3rd at 14:00-16:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Just1 @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Just1",
+        "day": "Sunday, August 3rd",
+        "time": "14:00-16:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Montuno&Oplik performs at Ambientfloor on Sunday, August 3rd at 14:00-16:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Montuno&Oplik @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Montuno&Oplik",
+        "day": "Sunday, August 3rd",
+        "time": "14:00-16:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Douniah performs at Seebühne (See Floor) on Sunday, August 3rd at 16:00-17:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Douniah @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Douniah",
+        "day": "Sunday, August 3rd",
+        "time": "16:00-17:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Margaux Gazur performs at Ambientfloor on Sunday, August 3rd at 16:30-18:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Margaux Gazur @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Margaux Gazur",
+        "day": "Sunday, August 3rd",
+        "time": "16:30-18:00"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Khadija performs at Seebühne (See Floor) on Sunday, August 3rd at 17:00-19:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Khadija @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Khadija",
+        "day": "Sunday, August 3rd",
+        "time": "17:00-19:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Christian performs at Ambientfloor on Sunday, August 3rd at 18:00-19:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Christian @ Ambientfloor",
+      "type": "DJ",
+      "event": {
+        "name": "Christian",
+        "day": "Sunday, August 3rd",
+        "time": "18:00-19:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Lourdes Lourdes performs at Seebühne (See Floor) on Sunday, August 3rd at 19:00-20:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Lourdes Lourdes @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Lourdes Lourdes",
+        "day": "Sunday, August 3rd",
+        "time": "19:00-20:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Star Works & Friends performs at Ambientfloor on Sunday, August 3rd at 19:30-21:30",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Star Works & Friends @ Ambientfloor",
+      "type": "LIVE",
+      "event": {
+        "name": "Star Works & Friends",
+        "day": "Sunday, August 3rd",
+        "time": "19:30-21:30"
+      },
+      "keywords": [
+        "ambientfloor",
+        "day"
+      ],
+      "location": {
+        "name": "Ambientfloor",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Omoloko performs at Seebühne (See Floor) on Sunday, August 3rd at 20:00-22:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Omoloko @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Omoloko",
+        "day": "Sunday, August 3rd",
+        "time": "20:00-22:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Wayne Snow performs at Seebühne (See Floor) on Sunday, August 3rd at 22:00-23:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Wayne Snow @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Wayne Snow",
+        "day": "Sunday, August 3rd",
+        "time": "22:00-23:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Parris performs at Seebühne (See Floor) on Monday, August 4th at 23:00-01:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Parris @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Parris",
+        "day": "Monday, August 4th",
+        "time": "23:00-01:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Suricata + Don Alex Albert performs at Seebühne (See Floor) on Monday, August 4th at 01:00-04:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Suricata + Don Alex Albert @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Suricata + Don Alex Albert",
+        "day": "Monday, August 4th",
+        "time": "01:00-04:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Lemonella performs at Seebühne (See Floor) on Monday, August 4th at 04:00-06:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Lemonella @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Lemonella",
+        "day": "Monday, August 4th",
+        "time": "04:00-06:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "DJ Balaton performs at Seebühne (See Floor) on Monday, August 4th at 06:00-08:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "DJ Balaton @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "DJ Balaton",
+        "day": "Monday, August 4th",
+        "time": "06:00-08:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "dj",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Jascha Hagen performs at Seebühne (See Floor) on Monday, August 4th at 08:00-10:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Jascha Hagen @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Jascha Hagen",
+        "day": "Monday, August 4th",
+        "time": "08:00-10:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Avem performs at Seebühne (See Floor) on Monday, August 4th at 10:00-11:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Avem @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "Avem",
+        "day": "Monday, August 4th",
+        "time": "10:00-11:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Marliblue & Sofyah performs at Seebühne (See Floor) on Monday, August 4th at 11:00-13:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Marliblue & Sofyah @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Marliblue & Sofyah",
+        "day": "Monday, August 4th",
+        "time": "11:00-13:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Loui Beton X Tars performs at Seebühne (See Floor) on Monday, August 4th at 13:00-15:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Loui Beton X Tars @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Loui Beton X Tars",
+        "day": "Monday, August 4th",
+        "time": "13:00-15:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "DAJO performs at Seebühne (See Floor) on Monday, August 4th at 15:00-16:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "DAJO @ Seebühne (See Floor)",
+      "type": "LIVE",
+      "event": {
+        "name": "DAJO",
+        "day": "Monday, August 4th",
+        "time": "15:00-16:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Mira & Chris Schwarzwälder performs at Seebühne (See Floor) on Monday, August 4th at 16:00-18:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "Mira & Chris Schwarzwälder @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "Mira & Chris Schwarzwälder",
+        "day": "Monday, August 4th",
+        "time": "16:00-18:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "ADA performs at Seebühne (See Floor) on Monday, August 4th at 18:00-20:00",
+    "meta": {
+      "category": "Timetable",
+      "topic": "ADA @ Seebühne (See Floor)",
+      "type": "DJ",
+      "event": {
+        "name": "ADA",
+        "day": "Monday, August 4th",
+        "time": "18:00-20:00"
+      },
+      "keywords": [
+        "seebühne (see floor)",
+        "day"
+      ],
+      "location": {
+        "name": "Seebühne (See Floor)",
+        "coordinates": {
+          "lat": 52.300238,
+          "lon": 15.003053
+        }
+      }
+    }
+  },
+  {
+    "text": "Wednesday, July 30th\n## Hypnotic Cacao\n**Day:** Wednesday  \n**Time:** 16:00  \n**Location:** Dome  \n**Facilitator:** Jens Kaufmann  \n**Description:** In this special cacao ceremony, you will delve deep into your inner universe. You will be gradually guided into a healing trance. This allows you to mentally realign yourself positively and connect deeply on an emotional level. A soothing reset that is intensified by the finest ceremonial cacao.\n\n## Yivamukti Flow\n**Day:** Wednesday  \n**Time:** 17:00  \n**Location:** Amphitheater  \n**Facilitator:** Dana Sertel  \n**Description:** Get \"back on track\" after your night of dancing by tuning into your body and awakening your energies back to life. all level Jivamukti Yoga flow.\n\n## Guided Meditation: The simple feeling of being\n**Day:** Wednesday  \n**Time:** 18:00  \n**Location:** Dome  \n**Facilitator:** Günni  \n**Description:** \n\n## SOUNDGAUKLER Soundjourney\n**Day:** Wednesday  \n**Time:** 20:00  \n**Location:** Moontent  \n**Facilitator:**   \n**Description:** \n\n## Kirtan - Devotional Singing\n**Day:** Wednesday  \n**Time:** 22:00  \n**Location:** Amphitheater  \n**Facilitator:** Karma Yoga Crew  \n**Description:** Kirtan guided singing circle.\n\n---",
+    "meta": {
+      "category": "Workshops",
+      "topic": "Wednesday, July 30th",
+      "type": "workshop",
+      "keywords": [
+        "facilitator",
+        "dome"
+      ],
+      "event": {
+        "name": "Wednesday, July 30th",
+        "facilitator": "** Jens Kaufmann"
+      },
+      "location": {
+        "name": "Dome",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Thursday, July 31st\n## Yivamukti Flow\n**Day:** Thursday  \n**Time:** 12:00  \n**Location:** Amphitheater  \n**Facilitator:** Dana Sertel  \n**Description:** Get \"back on track\" after your night of dancing by tuning into your body and awakening your energies back to life. all level Jivamukti Yoga flow.\n\n## Acro Yoga\n**Day:** Thursday  \n**Time:** 14:00  \n**Location:** Amphitheater  \n**Facilitator:** Tomasz Kaliszak, Aria Olejniczak  \n**Description:** AcroYoga it's about how to connect with other people in order to create safe movement and flow of two (or more) bodies (and minds). It is about laughter, community and having a lot of fun.\n\n## Fluentbody Dance Workshop\n**Day:** Thursday  \n**Time:** 16:00  \n**Location:** Amphitheater  \n**Facilitator:** Thalia  \n**Description:** \n\n## Instant Theater\n**Day:** Thursday  \n**Time:** 18:00  \n**Location:** Amphitheater  \n**Facilitator:** Ksenia  \n**Description:** Let's come together and let the imagination flow. We will start with a blank page, nothing is given, all depends on the phantasy of the group. We create a space, figures and actions. We quickly jump in and out of different roles. We invent a story and play it directly without any rehearsal time. We will have fun together, laugh and get playful.\n\n## Beautiful Stranger\n**Day:** Thursday  \n**Time:** 20:00  \n**Location:** Amphitheater  \n**Facilitator:** Martin Vallejos  \n**Description:** Beautiful Stranger is an immersive, sensory journey that explores trust, connection, and vulnerability through blindfolded touch. In a safe and guided space, participants engage in non-verbal interactions, heightening their awareness and deepening their emotional presence. By removing sight, they let go of preconceptions and truly feel the presence of another. This unique experience fosters empathy, intimacy, and a profound sense of human connection.\n\n## SecretCircle - an intimate performance of magic & mentalism\n**Day:** Thursday  \n**Time:** 20:00  \n**Location:** Moontent  \n**Facilitator:** Thimon von Berlepsch  \n**Description:** Thimon von Berlepsch – Magic & Mentalism An intimate performance where time stands still and the laws of physics bend. Experience magic in its rawest, most authentic form. So real, you'll question what's possible.\n\n---",
+    "meta": {
+      "category": "Workshops",
+      "topic": "Thursday, July 31st",
+      "type": "workshop",
+      "keywords": [
+        "facilitator",
+        "workshop",
+        "amphitheater"
+      ],
+      "event": {
+        "name": "Thursday, July 31st",
+        "facilitator": "** Dana Sertel"
+      },
+      "location": {
+        "name": "Amphitheater",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Friday, August 1st\n## Electric Yoga\n**Day:** Friday  \n**Time:** 10:00  \n**Location:** Amphitheater  \n**Facilitator:** Steph Yaksch  \n**Description:** \n\n## The Present Man\n**Day:** Friday  \n**Time:** 12:00  \n**Location:** Amphitheater  \n**Facilitator:** Felix Falkenhahn  \n**Description:** Join us for \"The Present Men,\" a transformative workshop that explores the essence of true presence — emotionally, physically, mentally, and spiritually. This foundational aspect is essential for embodying an honest, vulnerable, and powerful manhood that transcends outdated concepts of masculinity. Discover how authentic presence serves as the bedrock for a creative and responsible life, fostering healing in your relationships with yourself, other men, women, and everyone around you. Embracing your true self may also involve a playful curiosity and a certain sense of queerness that balances both masculine and feminine qualities or challenges old interpretations of it. In the intensity of life's challenges, only a present man can cultivate the trust and capacity to stand firm, remain free, and be emotionally available. This workshop offers inspiring experiences and practical tools to help you embark on this path of self-discovery, growth and a truly supportive community.\n\n## Alchemy: Rewire Immersion\n**Day:** Friday  \n**Time:** 14:00  \n**Location:** Amphitheater  \n**Facilitator:** Rodo Escalante  \n**Description:** This 90-minute group session is designed for those already familiar with the foundational principles of Alchemy:Rewire and ready to go deeper together. Led by founder Rodo Escalante, this collective immersion invites you into a powerful group experience that sharpens focus, expands emotional resilience, and deepens nervous system regulation. Through a carefully calibrated sequence of intentional ventilations and strategic breath holds, we'll co-regulate in real time, tapping into the intelligence of the autonomic nervous system and training the mind-body system to remain calm and clear, even under internal or external pressure. Expect a potent reset for the vagus nerve, a recalibration of your neurochemistry, and a profound entry into states of brain-heart coherence. This isn't about learning the technique; it's about embodying it. Come prepared to move beyond the basics and into a collective state of heightened presence and performance.\n\n## Biohacking with Supplements\n**Day:** Friday  \n**Time:** 16:00  \n**Location:** Amphitheater  \n**Facilitator:** Nils Behrens  \n**Description:** \n\n## Hormone Balance & Perimenopause Hacks\n**Day:** Friday  \n**Time:** 18:00  \n**Location:** Amphitheater  \n**Facilitator:** Greta Namboutin  \n**Description:** Menopause isn't a quiet retreat – it's a bold invitation. To clarity, to fire, to yourself. If you dare to feel yourself anew, you'll discover a whole new freedom.\n\n## Echoes of Shiva (Kirtan)\n**Day:** Friday  \n**Time:** 20:00  \n**Location:** Amphitheater  \n**Facilitator:** Norema Pauw  \n**Description:** Cosmic Echoes of Shiva is a powerful voice journey of liberation, dissolving illusions and transcending the ego. Through our voices we open the heart; through devotion we free the mind and through rhythm we awaken the body. Chanting Shiva ignites the fire of transformation, inviting us to be in the vastness of existence. A ecstatic chant flow to expand and merge with the infinite.\n\n## Pyramid Party\n**Day:** Friday  \n**Time:** 22:00  \n**Location:** Amphitheater  \n**Facilitator:** Ben Okamoto  \n**Description:** What does it mean to let our deepest desires become our art? How do we embody the raw essence of life—love, connection, chaos, and celebration—through movement, music, and ritual? Pyramid Party - A Collective Dance-floor & Kundalini Experience. Building on last year's Rainbow Temple journey, we continue the story with tribal drumming, movement, and ritual. I would love to invite a drummer to perform and hold space with us. The performance will transition into an open dancefloor experience, blending organic rhythms with electronic beats for a deep, immersive journey. This is a ritual of sound and movement, bringing ravers into deeper connection with themselves and each other.\n\n---",
+    "meta": {
+      "category": "Workshops",
+      "topic": "Friday, August 1st",
+      "type": "workshop",
+      "keywords": [
+        "facilitator",
+        "learning",
+        "temple",
+        "workshop"
+      ],
+      "event": {
+        "name": "Friday, August 1st",
+        "facilitator": "** Steph Yaksch"
+      },
+      "location": {
+        "name": "Temple",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "Saturday, August 2nd\n## Protocol RECODE\n**Day:** Saturday  \n**Time:** 11:00  \n**Location:** Amphitheater  \n**Facilitator:** Nico Andonakis  \n**Description:** Learn to regulate your state, rewire your mind, and feel calm on command. In this immersive workshop, you'll explore the nervous system as the bridge between your subconscious patterns and conscious behaviors. Discover how to enter into dialogue with your body, identify hidden blind spots, and recode the beliefs that silently shape your life. Through CO₂-stimulating breathwork, somatic release techniques, and subconscious rewiring, you'll gain practical tools to move from anxiety and overwhelm into clarity, confidence, and calm. Walk away with a deeper understanding of yourself—and the ability to meet life from your most grounded, powerful state.\n\n## Temple of Turn on\n**Day:** Saturday  \n**Time:** 13:00  \n**Location:** Amphitheater  \n**Facilitator:** Bibi Brzoska  \n**Description:** In this immersive workshop, you'll explore the nervous system as the bridge between your subconscious patterns and conscious behaviors. Discover how to enter into dialogue with your body, identify hidden blind spots, and recode the beliefs that silently shape your life.\n\n## Pilates Flow\n**Day:** Saturday  \n**Time:** 15:00  \n**Location:** Amphitheater  \n**Facilitator:** Sunday Natural  \n**Description:** Through CO₂-stimulating breathwork, somatic release techniques, and subconscious rewiring, you'll gain practical tools to move from anxiety and overwhelm into clarity, confidence, and calm. Walk away with a deeper understanding of yourself—and the ability to meet life from your most grounded, powerful state.\n\n## Pop OFF Eastern European Humor Academy + Acrobatic Movement: Performance\n**Day:** Saturday  \n**Time:** 17:00  \n**Location:** Amphitheater  \n**Facilitator:** Vidina Popov & Adrian Iselin  \n**Description:** Performances.\n\n## Speak it Alive!\n**Day:** Saturday  \n**Time:** 18:00  \n**Location:** Amphitheater  \n**Facilitator:** Lauren Cuthbert  \n**Description:** This 2025, xome & share your word magic in a cosy, open mic - that invites you to manifest your wildest dreams and desires through your creative expression. We welcome you to share your expression (up to 10minutes) of poetry, rap, spoken word - OR weave them all together and deliver a unique spoetrap piece for extra brownie points. There will be a prize 🏅 for the most creative, thoughtful & thought provoking piece!\n\n## The Stories We Live By (Part 2) - Stand up\n**Day:** Saturday  \n**Time:** 20:00  \n**Location:** Amphitheater  \n**Facilitator:** Ocean & Vishal  \n**Description:** Every moment at Garbicz Festival (Garbicz) is a story waiting to be told. Some are wild, some are profound, and some shift the way we see ourselves forever. In Part 2, step into the Garbicz Festival (Garbicz) Story Stage—an intimate, curated evening of shared festival tales, where 5-7 storytellers bring their Garbicz Festival (Garbicz) moments to life. Laughter, goosebumps, and a few tears possibly. Come ready to rewrite your story, connect deeply, and witness the magic that happens when we own our narratives. Because at Garbicz Festival (Garbicz), the best stories aren't just told—they're lived.\n\n## House of Soulstrip\n**Day:** Saturday  \n**Time:** 22:00  \n**Location:** Amphitheater  \n**Facilitator:** Anya Ananda  \n**Description:** In The HOUSE OF SOULSTRIP Y O U become the performer or the customer, like in a stripclub! We bring you as performers and guests together in new consciousness and levels of erotic joy. Everyone can perform, the only requirement is that you join our House of Soulstrip training beforehand in the form of a festival workshop in Lichtung Area. The workshop aims to activate your own essential power and safety for authentic exploration of performative, erotic energies on stage, using the pole as our sacred center piece.\n\n---",
+    "meta": {
+      "category": "Workshops",
+      "topic": "Saturday, August 2nd",
+      "type": "workshop",
+      "keywords": [
+        "facilitator",
+        "workshop",
+        "lichtung"
+      ],
+      "event": {
+        "name": "Saturday, August 2nd",
+        "facilitator": "** Nico Andonakis"
+      },
+      "location": {
+        "name": "Lichtung",
+        "coordinates": {
+          "lat": 52.30519,
+          "lon": 14.997405
+        }
+      }
+    }
+  },
+  {
+    "text": "Sunday, August 3rd\n## Yin Yoga & Self Love\n**Day:** Sunday  \n**Time:** 10:00  \n**Location:** Amphitheater  \n**Facilitator:** Orkun Eti  \n**Description:** A deeply nourishing yin yoga session focused on cultivating self-love and acceptance. Through gentle, long-held postures and mindful breath, we create space to soften, reconnect, and embrace ourselves fully.\n\n## Psychedelic Breath\n**Day:** Sunday  \n**Time:** 12:00  \n**Location:** Amphitheater  \n**Facilitator:** Eva Kaczor & Nico Stojan  \n**Description:** A new form of exploring a sober psychedelic state and electronic music: PSYCHEDELIC BREATH® is a dynamic breathwork ritual, developped by Eva Kaczor, designed to let you explore how to live your purpose.\n\n## Qi Gong - Faultier Sport\n**Day:** Sunday  \n**Time:** 14:00  \n**Location:** Amphitheater  \n**Facilitator:** Dave Dinger  \n**Description:** Energie rum schieben und Blockaden beheben. Auch gerne vor und nach dem Festival als tägliche Routine für die Crew.\n\n## 108 Ohms\n**Day:** Sunday  \n**Time:** 16:00  \n**Location:** Amphitheater  \n**Facilitator:** Chen Ting  \n**Description:** 108 Ohms is an immersive sonic ritual where sound becomes the bridge between the self and the collective. Rooted in ancient traditions, this experience harnesses the vibrational power of OM, the primordial sound, to create a transcendental energy field—one that transcends language and connects participants in a deep, resonant state. Together, the group will chant OM 108 times, a sacred number in many spiritual traditions, symbolizing wholeness, completion, and cosmic alignment. As voices merge into a unified frequency, the space transforms into a portal of sound where all boundaries dissolve. The repetition of OM is not merely a chant but a ritual of attunement, aligning each participant with the pulse of the collective and the healing frequency to spread across the entire festival.\n\n## Spiritual Theater\n**Day:** Sunday  \n**Time:** 18:00  \n**Location:** Amphitheater  \n**Facilitator:** Javid Wunsch  \n**Description:** This workshop invites you to connect with yourself and others through movement, improvisation, and role exploration. With curiosity and joy, we dive into the present moment, awaken creative impulses, and discover how expression can arise naturally – grounded, playful, and alive.\n\n---\n\n*Last updated: July 27, 2025*",
+    "meta": {
+      "category": "Workshops",
+      "topic": "Sunday, August 3rd",
+      "type": "workshop",
+      "keywords": [
+        "facilitator",
+        "workshop",
+        "amphitheater"
+      ],
+      "event": {
+        "name": "Sunday, August 3rd",
+        "facilitator": "** Orkun Eti"
+      },
+      "location": {
+        "name": "Amphitheater",
+        "coordinates": {
+          "lat": 52.302539,
+          "lon": 15.000374
+        }
+      }
+    }
+  },
+  {
+    "text": "General Garbicz Festival (Garbicz) Information\nThe Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)) is starting on Wednesday July 30th, 2025 and will run until Monday August 4rd, 2025 20:00",
+    "meta": {
+      "category": "General",
+      "topic": "General Garbicz Festival (Garbicz) Information",
+      "type": "general info",
+      "keywords": [
+        "information"
+      ]
+    }
+  },
+  {
+    "text": "The Lake — The Land — The People\nThe fields of Garbicz Festival (Garbicz) are guarded by ancient entities. Gigantic oaks and birch trees, some over 500 years old, have witnessed the past and are patiently awaiting the future. Their colossal roots spread out like veins, holding the sandy soil while canopies shelter generations to come.\n\nThese oaks, the green Gods of nature, were the first we saw here in Poland. We arrived in Garbicz Festival (Garbicz), dragged by an irresistible pull, with an unmistakable feeling that something greater brought us here. They called us and invited us to gather near the village, be welcomed like family and respectfully share what life gives. This we are truly grateful for.\n\nThe tree of life is growing where the spirit never dies\n\nLet these trees guide and protect us, let diversity make our community stronger.\n\nCome with us to Garbicz Festival (Garbicz), embrace nature and keep the spirit alive.",
+    "meta": {
+      "category": "General",
+      "topic": "The Lake — The Land — The People",
+      "type": "general info",
+      "keywords": [
+        "guide"
+      ]
+    }
+  },
+  {
+    "text": "The Garbicz Festival (Garbicz) Manifesto\nGarbicz Festival (Garbicz) is a voyage, a treasured playground in a reimagined sense of time, our own crazy paradise, continually evolving. Our multicultural community co-exists in harmony, built to uplift and endure in our own special corner of wilderness.\n\nOur goal is simple yet profound: respect and create with nature. The woods, the grass, the lake and every soul we encounter are intrinsic parts of our journey’s rhythm.\n\nAs we immerse ourselves in this beautiful land, every eye-to-eye connection reinforces our mantra: “Alles ist Gut.”\n\nEmbracing the “Oops” moments forms the core of our learning and creative process. These instances push us to break old patterns, explore new, heart-centered paths with conviction, and continually refine our craft for the better.\n\nGarbicz Festival (Garbicz) is where hedonism meets altruism. By treating ourselves, others, and nature with respect, we indulge in the simplest and purest pleasures life offers: connection, discovery, laughter, creation, contribution, and shared experiences are amongst our cherished treasures.\n\nThis synergy of caring and pleasure fuels an atmosphere filled with light and compassion. We strive to educate, promote peace, whilst opposing discrimination, to provide a barrier-free and supportive environment for all.\n\nYou are all, of course, welcome to join us.\n\nHere, we are: Garbicz Festival (Garbicz) Festival (Garbicz Festival (Garbicz)).",
+    "meta": {
+      "category": "General",
+      "topic": "The Garbicz Festival (Garbicz) Manifesto",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Festival Location**\n**Category:** FAQ  \n **Topic:** Festival Location  \n **Content:** Location: Garbicz, Poland at Garbicz 32f, 66-235 Torzym. Features: Near Lake Wielicko with ancient oaks and birch forests. Environment: Nature reserve part of Natura 2000 network. Type: general info",
+    "meta": {
+      "category": "General",
+      "topic": "**Festival Location**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Festival History**\n**Category:** FAQ  \n **Topic:** Festival History  \n **Content:** Founded: 2013 by Berlin-based collectives and Polish collaborators. Status: Top European boutique festival. Focus: Art, music, and sustainability. Community: International diverse gathering. Type: background",
+    "meta": {
+      "category": "General",
+      "topic": "**Festival History**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Festival Values**\n**Category:** FAQ  \n **Topic:** Festival Values  \n **Content:** Principles: Respect for nature, community engagement, non-discrimination, hedonism with purpose. Approach: Participatory event encouraging contribution. Local impact: Employs locals and supports businesses. Type: values",
+    "meta": {
+      "category": "General",
+      "topic": "**Festival Values**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Music Programming**\n**Category:** FAQ  \n **Topic:** Music Programming  \n **Content:** Genres: Electronic music, techno, house, experimental live sets. Venues: Multiple custom stages in forest, fields, and lakeshore. Artists: Seth Troxler, Fjaak, Ricardo Villalobos, DJ Tennis, Marcel Dettmann. Type: music",
+    "meta": {
+      "category": "General",
+      "topic": "**Music Programming**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Art and Performances**\n**Category:** FAQ  \n **Topic:** Art and Performances  \n **Content:** Features: Art installations, interactive performances, workshops, light shows, theatre. Activities: Yoga to philosophy workshops. Environment: Woods and lakeside creative playground. Type: art",
+    "meta": {
+      "category": "General",
+      "topic": "**Art and Performances**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Photo Policy**\n**Category:** FAQ  \n **Topic:** Photo Policy  \n **Content:** Policy: No-photo or limited-photo policy. Purpose: Emphasize presence and connection over digital sharing. Focus: Live experience priority. Type: policy",
+    "meta": {
+      "category": "General",
+      "topic": "**Photo Policy**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Wellness Activities**\n**Category:** FAQ  \n **Topic:** Wellness Activities  \n **Content:** Activities: Yoga, meditation zones, massage, sauna, lakeside chillouts. Purpose: Balance high-energy dancefloors with relaxation. Focus: Key festival wellness aspect. Type: wellness",
+    "meta": {
+      "category": "General",
+      "topic": "**Wellness Activities**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Festival Atmosphere**\n**Category:** FAQ  \n **Topic:** Festival Atmosphere  \n **Content:** Vibe: Free-spirited, playful, transformative crazy paradise. Encouragement: Self-expression, deep connection, life celebration. Time: Outside ordinary time experience. Type: atmosphere",
+    "meta": {
+      "category": "General",
+      "topic": "**Festival Atmosphere**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Community Culture**\n**Category:** FAQ  \n **Topic:** Community Culture  \n **Content:** Environment: Supportive, open to all backgrounds. Reputation: Safety, care, positive noncommercial family-like vibe. Inclusivity: Welcoming space for everyone. Type: community",
+    "meta": {
+      "category": "General",
+      "topic": "**Community Culture**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Historical Significance**\n**Category:** FAQ  \n **Topic:** Historical Significance  \n **Content:** Impact: Boosts local village economy and cross-border peace project. History: Originally German territory, became Polish after WWII. Mission: Foster Polish-German friendship and cultural exchange. Type: historical",
+    "meta": {
+      "category": "General",
+      "topic": "**Historical Significance**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Important Festival Notes**\n**Category:** FAQ  \n **Topic:** Important Festival Notes  \n **Content:** Pets: No pets allowed, no accreditation for animals. Documentation: Bring ID for accreditation. Requirements: Mandatory identification needed. Type: requirements",
+    "meta": {
+      "category": "General",
+      "topic": "**Important Festival Notes**",
+      "type": "general info",
+      "keywords": [
+        "accreditation"
+      ],
+      "location": {
+        "name": "Accreditation",
+        "coordinates": {
+          "lat": 52.30662,
+          "lon": 14.999932
+        }
+      }
+    }
+  },
+  {
+    "text": "**Lost and Found During Festival**\n**Category:** FAQ  \n **Topic:** Lost and Found During Festival  \n **Content:** Location: Items secured at infopoint Lost and Found Office. Process: Items recorded, efforts made to return on spot. Announcements: Reasonable efforts to find owners. Type: lost found",
+    "meta": {
+      "category": "General",
+      "topic": "**Lost and Found During Festival**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Lost and Found After Festival**\n**Category:** FAQ  \n **Topic:** Lost and Found After Festival  \n **Content:** Legal: Cannot transport items to Berlin, must follow Polish law. Ordinary Items: Handed to Starostwo Powiatowe w Sulęcinie county office. Valuable Items: Over 100 PLN to police station. Documents: IDs, passports to police or issuing authority. Type: post festival",
+    "meta": {
+      "category": "General",
+      "topic": "**Lost and Found After Festival**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Lost Items Contact Information**\n**Category:** FAQ  \n **Topic:** Lost Items Contact Information  \n **Content:** County Office: Starostwo Powiatowe, Lipowa 18, 69-200 Sulęcin, Poland. Police: Any station in Gmina Torzym or Sulęcin. City Office: Szpitalna 4, 69-200 Sulęcin, Poland. Email: verloren@garbiczfestival.com. Storage: Items kept 1 year. Type: contact info\n\n---",
+    "meta": {
+      "category": "General",
+      "topic": "**Lost Items Contact Information**",
+      "type": "general info",
+      "keywords": [
+        "information"
+      ]
+    }
+  },
+  {
+    "text": "**Food Scene Overview**\n**Category:** Gastronomie  \n **Topic:** Food Scene Overview  \n **Content:** Description: Secret food festival with multicultural stalls. Offerings: Polish classics, Naked Brunch, Wiener Schnitzel, Weißwurst breakfast, NOMA collaborations. Quality: Local ingredients, artisanal preparation. Dietary: Vegetarian and vegan options. Type: food overview",
+    "meta": {
+      "category": "General",
+      "topic": "**Food Scene Overview**",
+      "type": "general info",
+      "keywords": [
+        "overview"
+      ]
+    }
+  },
+  {
+    "text": "**Drink Options**\n**Category:** Gastronomie  \n **Topic:** Drink Options  \n **Content:** Selection: Wide variety of drinks and creative liquid blessings. Venues: Pop-ups, wine bars, surprise shots. Integration: Part of festival magic experience. Type: beverages\n\n---",
+    "meta": {
+      "category": "General",
+      "topic": "**Drink Options**",
+      "type": "general info",
+      "keywords": [
+        "weinbar (wine bar)"
+      ],
+      "location": {
+        "name": "Weinbar (Wine Bar)",
+        "coordinates": {
+          "lat": 52.3025,
+          "lon": 15.0009
+        }
+      }
+    }
+  },
+  {
+    "text": "**Camping Information**\n**Category:** Camping  \n **Topic:** Camping Information  \n **Content:** Included: Five days access and camping rights with ticket. Approach: Eco-camping with reusable gear and tent rental services. Facilities: Permanent showers, toilets, lakeside tenting. Waste: Limited single-use policy. Type: accommodation",
+    "meta": {
+      "category": "General",
+      "topic": "**Camping Information**",
+      "type": "general info",
+      "keywords": [
+        "information"
+      ]
+    }
+  },
+  {
+    "text": "**Nearby Accommodation**\n**Category:** Camping  \n **Topic:** Nearby Accommodation  \n **Content:** Option: Marina-Camping nearby for extra comfort. Features: Structured amenities and family-friendly options. Type: Alternative accommodation. Type: external camping",
+    "meta": {
+      "category": "General",
+      "topic": "**Nearby Accommodation**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Fire and Safety Rules**\n**Category:** Camping  \n **Topic:** Fire and Safety Rules  \n **Content:** Prohibited: No fires, BBQs, bonfires, fireworks allowed. Music: No loud music at any time. Cleanliness: Keep clean, no trash left anywhere. Type: safety rules",
+    "meta": {
+      "category": "Safety",
+      "topic": "**Fire and Safety Rules**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Community and Conservation**\n**Category:** Camping  \n **Topic:** Community and Conservation  \n **Content:** Behavior: Be neighborly to other campers. Water: Conservation required, short showers, biodegradable products only. Information: More details in Camping Section of Website. Type: community rules\n\n---",
+    "meta": {
+      "category": "General",
+      "topic": "**Community and Conservation**",
+      "type": "general info",
+      "keywords": [
+        "information"
+      ]
+    }
+  },
+  {
+    "text": "**Sustainability Practices**\n**Category:** Nachhaltigkeit  \n **Topic:** Sustainability Practices  \n **Content:** Requirements: Garbage separation, reuse, water conservation. Policy: Leave no trace strictly enforced. Education: Ecology awareness integrated. Local: Support for local economy. Type: environmental\n\n---",
+    "meta": {
+      "category": "Sustainability",
+      "topic": "**Sustainability Practices**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Parking Information**\n**Category:** Anreise  \n **Topic:** Parking Information  \n **Content:** Guest Car Park: 80€ at Village, only by card no cash. Sunday Ticket: 30€ only by card no cash. Payment: Card only for all parking. Type: parking\n\n---",
+    "meta": {
+      "category": "General",
+      "topic": "**Parking Information**",
+      "type": "general info",
+      "keywords": [
+        "information"
+      ]
+    }
+  },
+  {
+    "text": "**Awareness and Respect**\n**Category:** Sicherheit  \n **Topic:** Awareness and Respect  \n **Content:** Policy: No tolerance for racism, sexism, queerphobia, ableism, discrimination. Consent: Only clear yes means yes. Respect: Personal space, no unwanted touch, comments, photos. Type: conduct",
+    "meta": {
+      "category": "General",
+      "topic": "**Awareness and Respect**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Environmental Respect**\n**Category:** Sicherheit  \n **Topic:** Environmental Respect  \n **Content:** Requirements: Biodegradable sunscreen and soaps for clean lake. Responsibility: Use pocket ashtrays, clean up all garbage. Lake protection: Keep water healthy and clean. Type: environment respect",
+    "meta": {
+      "category": "General",
+      "topic": "**Environmental Respect**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Local Laws Compliance**\n**Category:** Sicherheit  \n **Topic:** Local Laws Compliance  \n **Content:** Location: Poland, must respect local laws and customs. Nudity: Public nudity not allowed including at lake. Consequences: Festival risks financial fines for violations. Type: legal compliance",
+    "meta": {
+      "category": "General",
+      "topic": "**Local Laws Compliance**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Photo Privacy Policy**\n**Category:** Sicherheit  \n **Topic:** Photo Privacy Policy  \n **Content:** Rule: No photograph taking allowed. Purpose: Protect privacy and ensure respectful environment. Enforcement: Strict policy for everyone's safety. Type: privacy",
+    "meta": {
+      "category": "General",
+      "topic": "**Photo Privacy Policy**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Substance Responsibility**\n**Category:** Sicherheit  \n **Topic:** Substance Responsibility  \n **Content:** Rule: Substances don't excuse harm, you're still responsible. Support: If problems arise, go to Lila Awareness Tent at Carevillage or ask bars for Awareness Team. Type: substance policy",
+    "meta": {
+      "category": "General",
+      "topic": "**Substance Responsibility**",
+      "type": "general info",
+      "keywords": [
+        "awareness team"
+      ],
+      "location": {
+        "name": "Awareness Team",
+        "coordinates": {
+          "lat": 52.302641,
+          "lon": 15.000533
+        }
+      }
+    }
+  },
+  {
+    "text": "**Community Care**\n**Category:** Sicherheit  \n **Topic:** Community Care  \n **Content:** Principle: Look out for one another, friends and strangers alike. Boundaries: Okay to take breaks and set boundaries, respect them in others. Approach: Offer kindness not judgment. Type: community care",
+    "meta": {
+      "category": "General",
+      "topic": "**Community Care**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Care Spaces Available**\n**Category:** Sicherheit  \n **Topic:** Care Spaces Available  \n **Content:** Medics: Medical emergencies at Food Court. Eclipse Tent PsyCare: Chill space with tea, calm, care. Awareness Team: For discrimination, violence, feeling unsafe, need sober non-judgmental ear. Location: Care Village near food court. Type: support services",
+    "meta": {
+      "category": "General",
+      "topic": "**Care Spaces Available**",
+      "type": "general info",
+      "keywords": [
+        "food forest (food court)"
+      ],
+      "location": {
+        "name": "Food Forest (Food Court)",
+        "coordinates": {
+          "lat": 52.302919,
+          "lon": 15.001182
+        }
+      }
+    }
+  },
+  {
+    "text": "**Hygiene Requirements**\n**Category:** Sicherheit  \n **Topic:** Hygiene Requirements  \n **Content:** Handwashing: Before meals, after toilet visits. Water: Bring own labeled water bottle. Bathrooms: Leave clean, sit down to pee. Type: hygiene",
+    "meta": {
+      "category": "General",
+      "topic": "**Hygiene Requirements**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Fire Safety Procedures**\n**Category:** Sicherheit  \n **Topic:** Fire Safety Procedures  \n **Content:** Cigarettes: Collect all butts, no littering. Ignition: No sources of ignition left unattended. Prevention: Strict fire prevention measures. Type: fire safety",
+    "meta": {
+      "category": "Safety",
+      "topic": "**Fire Safety Procedures**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Heat Safety Measures**\n**Category:** Sicherheit  \n **Topic:** Heat Safety Measures  \n **Content:** Protection: Regular shade breaks, drink plenty water, wear hat, apply sunscreen. Prevention: Heat stroke and dehydration prevention. Requirements: Personal responsibility for heat safety. Type: heat safety",
+    "meta": {
+      "category": "Safety",
+      "topic": "**Heat Safety Measures**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Lake Safety Rules**\n**Category:** Sicherheit  \n **Topic:** Lake Safety Rules  \n **Content:** Lake Health: Keep healthy and clean, no poo, pee or chemical sunscreen. Protection: Preserve water quality for everyone. Requirements: Use biodegradable products only. Type: water safety",
+    "meta": {
+      "category": "Safety",
+      "topic": "**Lake Safety Rules**",
+      "type": "general info",
+      "keywords": []
+    }
+  },
+  {
+    "text": "**Emergency Services Available**\n**Category:** Sicherheit  \n **Topic:** Emergency Services Available  \n **Content:** Rangers: Guest attention needs. Psycare: Tea, rest, psychological support opposite info point. Medics: Medical care and first aid opposite info point. Awareness: Safespace next to care village. Ambulance: Emergency transport. Type: emergency services",
+    "meta": {
+      "category": "General",
+      "topic": "**Emergency Services Available**",
+      "type": "general info",
+      "keywords": [
+        "medical team (medics)"
+      ],
+      "location": {
+        "name": "Medical Team (Medics)",
+        "coordinates": {
+          "lat": 52.302888,
+          "lon": 15.000353
+        }
+      }
+    }
+  }
+]
